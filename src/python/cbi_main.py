@@ -9,6 +9,7 @@ import os
 import yaml
 import pandas as pd
 import math
+from tqdm import trange
 
 from utility_lib import required_input_file_dict
 from func_lib import (get_file_from_folder_by_type,
@@ -483,7 +484,12 @@ class CBI_TOOL:
         # convert measurement_tstamp to datetime
         df_reading["measurement_tstamp"] = pd.to_datetime(df_reading["measurement_tstamp"])
 
-        for i in range(len(df_reading)):
+        # print out total number of rows
+        print("Total number of rows in Reading.csv file: ", len(df_reading))
+        for i in trange(len(df_reading)):
+            # if i % 1000 == 0:
+            #     print(f"\t Reading data for row {i} / {len(df_reading)}")
+
             tmc = df_reading.loc[i, "tmc_code"]
 
             # convert time stamp to string
