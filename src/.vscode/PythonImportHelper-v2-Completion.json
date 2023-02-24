@@ -1,0 +1,2264 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "yaml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yaml",
+        "description": "yaml",
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "floor",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "fabs",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "ceil",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "required_input_file_dict",
+        "importPath": "utility_lib",
+        "description": "utility_lib",
+        "isExtraImport": true,
+        "detail": "utility_lib",
+        "documentation": {}
+    },
+    {
+        "label": "required_input_file_dict",
+        "importPath": "utility_lib",
+        "description": "utility_lib",
+        "isExtraImport": true,
+        "detail": "utility_lib",
+        "documentation": {}
+    },
+    {
+        "label": "get_file_from_folder_by_type",
+        "importPath": "func_lib",
+        "description": "func_lib",
+        "isExtraImport": true,
+        "detail": "func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "check_required_files_exist",
+        "importPath": "func_lib",
+        "description": "func_lib",
+        "isExtraImport": true,
+        "detail": "func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "check_required_column_names_exist",
+        "importPath": "func_lib",
+        "description": "func_lib",
+        "isExtraImport": true,
+        "detail": "func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "func_running_time",
+        "importPath": "func_lib",
+        "description": "func_lib",
+        "isExtraImport": true,
+        "detail": "func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "path2linux",
+        "importPath": "func_lib",
+        "description": "func_lib",
+        "isExtraImport": true,
+        "detail": "func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "validate_filename",
+        "importPath": "func_lib",
+        "description": "func_lib",
+        "isExtraImport": true,
+        "detail": "func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "generate_absolute_path",
+        "importPath": "func_lib",
+        "description": "func_lib",
+        "isExtraImport": true,
+        "detail": "func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "get_file_from_folder_by_type",
+        "importPath": "func_lib",
+        "description": "func_lib",
+        "isExtraImport": true,
+        "detail": "func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "check_required_files_exist",
+        "importPath": "func_lib",
+        "description": "func_lib",
+        "isExtraImport": true,
+        "detail": "func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "check_required_column_names_exist",
+        "importPath": "func_lib",
+        "description": "func_lib",
+        "isExtraImport": true,
+        "detail": "func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "func_running_time",
+        "importPath": "func_lib",
+        "description": "func_lib",
+        "isExtraImport": true,
+        "detail": "func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "path2linux",
+        "importPath": "func_lib",
+        "description": "func_lib",
+        "isExtraImport": true,
+        "detail": "func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "validate_filename",
+        "importPath": "func_lib",
+        "description": "func_lib",
+        "isExtraImport": true,
+        "detail": "func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "generate_absolute_path",
+        "importPath": "func_lib",
+        "description": "func_lib",
+        "isExtraImport": true,
+        "detail": "func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "Assignment",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "DemandPeriod",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "Link",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "LinkType",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "GDPoint",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "e_traffic_flow_model",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "e_VDF_type",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "MIN_PER_TIME_SLOT",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_TIME_INTERVAL_PER_DAY",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "DTA_Direction",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "TMC_Corridor_Info",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "Link",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "Assignment",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "DemandPeriod",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "Link",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "LinkType",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "GDPoint",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "DTA_Direction",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "TMC_Corridor_Info",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "e_traffic_flow_model",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "e_VDF_type",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "MIN_PER_TIME_SLOT",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_TIME_INTERVAL_PER_DAY",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "Link",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "Assignment",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "Assignment",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "DemandPeriod",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "DTA_Direction",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "TMC_Corridor_Info",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "GDPoint",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "Link",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "LinkType",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "e_traffic_flow_model",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "e_VDF_type",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "MIN_PER_TIME_SLOT",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_TIME_INTERVAL_PER_DAY",
+        "importPath": "DTA",
+        "description": "DTA",
+        "isExtraImport": true,
+        "detail": "DTA",
+        "documentation": {}
+    },
+    {
+        "label": "g_measurement_tstamp_parser",
+        "importPath": "cbi_reading",
+        "description": "cbi_reading",
+        "isExtraImport": true,
+        "detail": "cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "TMCLink",
+        "importPath": "cbi_reading",
+        "description": "cbi_reading",
+        "isExtraImport": true,
+        "detail": "cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "g_measurement_tstamp_parser",
+        "importPath": "cbi_reading",
+        "description": "cbi_reading",
+        "isExtraImport": true,
+        "detail": "cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "TMCLink",
+        "importPath": "cbi_reading",
+        "description": "cbi_reading",
+        "isExtraImport": true,
+        "detail": "cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "PeriodVDF",
+        "importPath": "VDF",
+        "description": "VDF",
+        "isExtraImport": true,
+        "detail": "VDF",
+        "documentation": {}
+    },
+    {
+        "label": "PeriodVDF",
+        "importPath": "VDF",
+        "description": "VDF",
+        "isExtraImport": true,
+        "detail": "VDF",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "freeze_support",
+        "importPath": "multiprocessing.dummy",
+        "description": "multiprocessing.dummy",
+        "isExtraImport": true,
+        "detail": "multiprocessing.dummy",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "count",
+        "importPath": "itertools",
+        "description": "itertools",
+        "isExtraImport": true,
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "g_measurement_tstamp_parser",
+        "importPath": "CBI_tool",
+        "description": "CBI_tool",
+        "isExtraImport": true,
+        "detail": "CBI_tool",
+        "documentation": {}
+    },
+    {
+        "label": "TMCLink",
+        "importPath": "CBI_tool",
+        "description": "CBI_tool",
+        "isExtraImport": true,
+        "detail": "CBI_tool",
+        "documentation": {}
+    },
+    {
+        "label": "CBI_TOOL",
+        "kind": 6,
+        "importPath": "python.cbi_main",
+        "description": "python.cbi_main",
+        "peekOfCode": "class CBI_TOOL:\n    def __init__(self, path_input_folder: str) -> None:\n        # initialize variables for the CBI TOOL\n        self.__initial_values()\n        self.path_input_folder = path_input_folder\n        # Check if all required input files are provided in the input folder\n        self.isRequired = self.__check_required_files_exist_in_folder()\n        if self.isRequired:\n            # prepare demand period for assignment\n            self.__prepare_demand_period_for_assignment()",
+        "detail": "python.cbi_main",
+        "documentation": {}
+    },
+    {
+        "label": "e_traffic_flow_model",
+        "kind": 6,
+        "importPath": "python.cbi_reading",
+        "description": "python.cbi_reading",
+        "peekOfCode": "class e_traffic_flow_model(Enum):\n    POINT_QUEUE = 0\n    SPATIAL_QUEUE = 1\n    KINEMATIVE_WAVE = 2\nclass e_VDF_type(Enum):\n    Q_VDF = 0\n    BPR_VDF = 1\nclass e_assignment_mode(Enum):\n    LUE = 0\n    DTA = 3",
+        "detail": "python.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "e_VDF_type",
+        "kind": 6,
+        "importPath": "python.cbi_reading",
+        "description": "python.cbi_reading",
+        "peekOfCode": "class e_VDF_type(Enum):\n    Q_VDF = 0\n    BPR_VDF = 1\nclass e_assignment_mode(Enum):\n    LUE = 0\n    DTA = 3\n    CBI = 11\n    CBSA = 12\nclass TMCLink:\n    def __init__(self):",
+        "detail": "python.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "e_assignment_mode",
+        "kind": 6,
+        "importPath": "python.cbi_reading",
+        "description": "python.cbi_reading",
+        "peekOfCode": "class e_assignment_mode(Enum):\n    LUE = 0\n    DTA = 3\n    CBI = 11\n    CBSA = 12\nclass TMCLink:\n    def __init__(self):\n        self.b_with_sensor_speed_data = False\n        self.speed_sum = [0 for _ in range(MAX_TIME_INTERVAL_PER_DAY)]\n        self.avg_speed = [0 for _ in range(MAX_TIME_INTERVAL_PER_DAY)]",
+        "detail": "python.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "TMCLink",
+        "kind": 6,
+        "importPath": "python.cbi_reading",
+        "description": "python.cbi_reading",
+        "peekOfCode": "class TMCLink:\n    def __init__(self):\n        self.b_with_sensor_speed_data = False\n        self.speed_sum = [0 for _ in range(MAX_TIME_INTERVAL_PER_DAY)]\n        self.avg_speed = [0 for _ in range(MAX_TIME_INTERVAL_PER_DAY)]\n        self.speed_lowest = [0 for _ in range(MAX_TIME_INTERVAL_PER_DAY)]\n        self.volume_sum = [0 for _ in range(MAX_TIME_INTERVAL_PER_DAY)]\n        self.avg_volume = [0 for _ in range(MAX_TIME_INTERVAL_PER_DAY)]\n        self.b_volume_data_available_flag = [False for _ in range(MAX_TIME_INTERVAL_PER_DAY)]\n        self.speed_count = [0 for _ in range(MAX_TIME_INTERVAL_PER_DAY)]",
+        "detail": "python.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "map_tmc_reading",
+        "kind": 2,
+        "importPath": "python.cbi_reading",
+        "description": "python.cbi_reading",
+        "peekOfCode": "def map_tmc_reading(ReadingDataFile: str) -> pd.DataFrame:\n    # TDD development\n    if not isinstance(ReadingDataFile, str):\n        raise TypeError('ReadingDataFile must be a string')\n    if ReadingDataFile.split('.')[-1] != 'csv':\n        raise TypeError('ReadingDataFile must be a csv file')\n    col_names = [\"tmc_code\", \"measurement_tstamp\", \"speed\", \"reference_speed\"]\n    col_names_not_in_file = [\"volume_pl\", \"ROADNAME\"]\n    df_reading = pd.read_csv(ReadingDataFile)\n    #  applied data conversion",
+        "detail": "python.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "g_day_of_week",
+        "kind": 2,
+        "importPath": "python.cbi_reading",
+        "description": "python.cbi_reading",
+        "peekOfCode": "def g_day_of_week(year: int, month: int, day: int) -> int:\n    return datetime.datetime(year, month, day).timetuple().tm_wday\ndef g_day_of_year(year: int, month: int, day: int) -> int:\n    return datetime.datetime(year, month, day).timetuple().tm_yday\ndef convert_tstamp_to_iso(time_str: str):\n    return pd.to_datetime(time_str).isoformat()\ndef g_measurement_tstamp_parser(time_str: str, day_of_week_flag: int, day_of_year: int) -> float:\n    datetime_time = pd.to_datetime(time_str)\n    yyyy = datetime_time.year\n    month = datetime_time.month",
+        "detail": "python.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "g_day_of_year",
+        "kind": 2,
+        "importPath": "python.cbi_reading",
+        "description": "python.cbi_reading",
+        "peekOfCode": "def g_day_of_year(year: int, month: int, day: int) -> int:\n    return datetime.datetime(year, month, day).timetuple().tm_yday\ndef convert_tstamp_to_iso(time_str: str):\n    return pd.to_datetime(time_str).isoformat()\ndef g_measurement_tstamp_parser(time_str: str, day_of_week_flag: int, day_of_year: int) -> float:\n    datetime_time = pd.to_datetime(time_str)\n    yyyy = datetime_time.year\n    month = datetime_time.month\n    day = datetime_time.day\n    buf_hh = [0] * 32",
+        "detail": "python.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "convert_tstamp_to_iso",
+        "kind": 2,
+        "importPath": "python.cbi_reading",
+        "description": "python.cbi_reading",
+        "peekOfCode": "def convert_tstamp_to_iso(time_str: str):\n    return pd.to_datetime(time_str).isoformat()\ndef g_measurement_tstamp_parser(time_str: str, day_of_week_flag: int, day_of_year: int) -> float:\n    datetime_time = pd.to_datetime(time_str)\n    yyyy = datetime_time.year\n    month = datetime_time.month\n    day = datetime_time.day\n    buf_hh = [0] * 32\n    buf_mm = [0] * 32\n    buf_ss = [0] * 32",
+        "detail": "python.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "g_measurement_tstamp_parser",
+        "kind": 2,
+        "importPath": "python.cbi_reading",
+        "description": "python.cbi_reading",
+        "peekOfCode": "def g_measurement_tstamp_parser(time_str: str, day_of_week_flag: int, day_of_year: int) -> float:\n    datetime_time = pd.to_datetime(time_str)\n    yyyy = datetime_time.year\n    month = datetime_time.month\n    day = datetime_time.day\n    buf_hh = [0] * 32\n    buf_mm = [0] * 32\n    buf_ss = [0] * 32\n    # day_of_week_flag = g_day_of_week(yyyy, month, day)\n    day_of_year = g_day_of_year(yyyy, month, day)",
+        "detail": "python.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "g_output_tmc_file",
+        "kind": 2,
+        "importPath": "python.cbi_reading",
+        "description": "python.cbi_reading",
+        "peekOfCode": "def g_output_tmc_file() -> None:\n    cbi_col_1 = [\"link_id\", \"tmc\", \"tmc_corridor_name\", \"tmc_corridor_id\",\n                 \"tmc_road_order\", \"tmc_road_sequence\", \"tmc_road\", \"tmc_direction\",\n                 \"tmc_intersection\", \"tmc_highest_speed\", \"link_no\",\n                 \"from_node_id\", \"to_node_id\", \"link_type\"]\n    cbi_col_2 = [\"link_type_code\", \"FT\", \"AT\", \"vdf_code\",\n                 \"nlanes\", \"link_distance_VDF\", \"free_speed\",\n                 \"capacity\", \"k_critical\", \"vcutoff\", \"highest_speed\",\n                 \"vcutoff_updated\", \"vcutoff_ratio\", \"v_critical_s3\"]\ndef g_output_qvdf_file() -> None:",
+        "detail": "python.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "g_output_qvdf_file",
+        "kind": 2,
+        "importPath": "python.cbi_reading",
+        "description": "python.cbi_reading",
+        "peekOfCode": "def g_output_qvdf_file() -> None:\n    pass\nif __name__ == \"__main__\":\n    df = map_tmc_reading(\"./data_input/Reading.csv\")",
+        "detail": "python.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_TIME_INTERVAL_PER_DAY",
+        "kind": 5,
+        "importPath": "python.cbi_reading",
+        "description": "python.cbi_reading",
+        "peekOfCode": "MAX_TIME_INTERVAL_PER_DAY = 300\n# max 96*3 5-min slots per day\nMIN_PER_TIME_SLOT = 5\nclass e_traffic_flow_model(Enum):\n    POINT_QUEUE = 0\n    SPATIAL_QUEUE = 1\n    KINEMATIVE_WAVE = 2\nclass e_VDF_type(Enum):\n    Q_VDF = 0\n    BPR_VDF = 1",
+        "detail": "python.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "MIN_PER_TIME_SLOT",
+        "kind": 5,
+        "importPath": "python.cbi_reading",
+        "description": "python.cbi_reading",
+        "peekOfCode": "MIN_PER_TIME_SLOT = 5\nclass e_traffic_flow_model(Enum):\n    POINT_QUEUE = 0\n    SPATIAL_QUEUE = 1\n    KINEMATIVE_WAVE = 2\nclass e_VDF_type(Enum):\n    Q_VDF = 0\n    BPR_VDF = 1\nclass e_assignment_mode(Enum):\n    LUE = 0",
+        "detail": "python.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "e_traffic_flow_model",
+        "kind": 6,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "class e_traffic_flow_model(Enum):\n    POINT_QUEUE = 0\n    SPATIAL_QUEUE = 1\n    KINEMATIVE_WAVE = 2\nclass e_VDF_type(Enum):\n    Q_VDF = 0\n    BPR_VDF = 1\nclass e_assignment_mode(Enum):\n    LUE = 0\n    DTA = 3",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "e_VDF_type",
+        "kind": 6,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "class e_VDF_type(Enum):\n    Q_VDF = 0\n    BPR_VDF = 1\nclass e_assignment_mode(Enum):\n    LUE = 0\n    DTA = 3\n    CBI = 11\n    CBSA = 12\nclass DemandPeriod:\n    def _initialize_instance_fields(self):",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "e_assignment_mode",
+        "kind": 6,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "class e_assignment_mode(Enum):\n    LUE = 0\n    DTA = 3\n    CBI = 11\n    CBSA = 12\nclass DemandPeriod:\n    def _initialize_instance_fields(self):\n        # instance fields found by C++ to Python Converter:\n        self.demand_period = \"\"\n        self.starting_time_slot_no = 0",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "DemandPeriod",
+        "kind": 6,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "class DemandPeriod:\n    def _initialize_instance_fields(self):\n        # instance fields found by C++ to Python Converter:\n        self.demand_period = \"\"\n        self.starting_time_slot_no = 0\n        self.ending_time_slot_no = 0\n        self.time_period_in_hour = 0\n        self.t2_peak_in_hour = 0\n        self.time_period = \"\"\n        self.number_of_demand_files = 0",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "DepartureTimeProfile",
+        "kind": 6,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "class DepartureTimeProfile:\n    def __init__(self, **kwargs):\n        self.departure_time_profile_no = 0\n        self.m_RandomSeed = 101\n        self.starting_time_slot_no = 0\n        self.ending_time_slot_no = 0\n        self.departure_time_ratio = [0 for _ in range(MAX_TIME_SLOT_PER_PERIOD)]\n        self.cumulative_departure_time_ratio = [0 for _ in range(MAX_TIME_SLOT_PER_PERIOD)]\n        if kwargs:\n            for key in kwargs:",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "AgentTypeDistrict",
+        "kind": 6,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "class AgentTypeDistrict:\n    def __init__(self, **kwargs):\n        self.count_of_links = 0\n        self.total_od_volume = 0\n        self.total_person_distance_km = 0\n        self.total_person_distance_mile = 0\n        self.total_person_travel_time = 0\n        self.avg_travel_time = 0\n        self.avg_travel_distance_km = 0\n        self.avg_travel_distance_mile = 0",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "AnalysisDistrict",
+        "kind": 6,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "class AnalysisDistrict:\n    def __init__(self, **kwargs):\n        self.district_id = 0\n        self.district_name = 0\n        self.shape_points = []\n        self.data_by_agent_type = [AgentTypeDistrict() for _ in range(MAX_AGENT_TYPES)]\n        if kwargs:\n            for key in kwargs:\n                setattr(self, key, kwargs[key])\n    def record_origin_2_district_volume(self, at: int, od_volume: float):",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "AgentType",
+        "kind": 6,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "class AgentType:\n    def _initialize_instance_fields(self):\n        self.agent_type = \"\"\n        self.display_code = \"\"\n        self.access_node_type = \"\"\n        self.zone_id_cover_map = {}\n    def __init__(self, **kwargs):\n        self._initialize_instance_fields()\n        self.agent_type_no = 1\n        self.value_of_time = 100",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "LinkType",
+        "kind": 6,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "class LinkType:\n    def _initialize_instance_fields(self):\n        self.link_type_name = \"\"\n        self.type_code = \"\"\n    def __init__(self, **kwargs):\n        self._initialize_instance_fields()\n        self.link_type = 1\n        self.number_of_links = 0\n        self.traffic_flow_code = e_traffic_flow_model.SPATIAL_QUEUE\n        self.k_jam = 300",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "DTAVehListPerTimeInterval",
+        "kind": 6,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "class DTAVehListPerTimeInterval:\n    def __init__(self, **kwargs):\n        self.m_AgentIDVector = []\n        if kwargs:\n            for key in kwargs:\n                setattr(self, key, kwargs[key])\nclass Assignment:\n    def _initialize_instance_fields(self):\n        self.zone_id_to_centriod_node_no_mapping = {}\n        self.zone_id_2_node_no_mapping = {}",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "Assignment",
+        "kind": 6,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "class Assignment:\n    def _initialize_instance_fields(self):\n        self.zone_id_to_centriod_node_no_mapping = {}\n        self.zone_id_2_node_no_mapping = {}\n        self.zone_id_2_cell_id_mapping = {}\n        self.cell_id_mapping = {}\n        self.cell_id_2_cell_code_mapping = {}\n        self.g_origin_demand_array = {}\n        self.node_seq_no_2_info_zone_id_mapping = {}\n        self.zone_seq_no_2_info_mapping = {}",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "GDPoint",
+        "kind": 6,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "class GDPoint:\n    def __init__(self, **kwargs):\n        self.x = 0\n        self.y = 0\n        self.node_no = 0\n        self.distance_from_origin = 0\n        if kwargs:\n            for key in kwargs:\n                setattr(self, key, kwargs[key])\n    def less_than(self, other):",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "Link",
+        "kind": 6,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "class Link:\n    def _initialize_instance_fields(self):\n        self.m_link_pedefined_capacity_map_in_sec = {}\n        self.m_link_pedefined_information_response_map = {}\n        self.model_speed = [0 for _ in range(MAX_TIME_INTERVAL_PER_DAY)]\n        self.est_volume_per_hour_per_lane = [0 for _ in range(MAX_TIME_INTERVAL_PER_DAY)]\n        self.est_avg_waiting_time_in_min = [0 for _ in range(MAX_TIME_INTERVAL_PER_DAY)]\n        self.est_queue_length_per_lane = [0 for _ in range(MAX_TIME_INTERVAL_PER_DAY)]\n        self.dynamic_link_closure_map = {}\n        self.dynamic_link_closure_type_map = {}",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "VDFType",
+        "kind": 6,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "class VDFType:\n    def __init__(self):\n        self.vdf_code = \"\"\n        self.VDF_period_sum = [PeriodVDF() for _ in range(MAX_TIME_PERIODS)]\n    def record_qvdf_data(self, element: PeriodVDF, tau: int):\n        # sourcery skip: extract-method\n        if tau >= MAX_TIME_PERIODS:\n            return\n        if self.VDF_period_sum[tau].vdf_data_count == 0:\n            self.VDF_period_sum[tau].peak_load_factor = element.peak_load_factor",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "PeriodCorridor",
+        "kind": 6,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "class PeriodCorridor:\n    def __init__(self):\n        self.volume = 0\n        self.count = 0\n        self.speed = 0\n        self.DoC = 0\n        self.P = 0\n        self.AvgP = 0\n        self.MaxP = 0\nclass Corridor_Info:",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "Corridor_Info",
+        "kind": 6,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "class Corridor_Info:\n    def __init__(self):\n        self.tmc_corridor_name = \"\"\n        self.corridor_period = [PeriodCorridor() for _ in range(MAX_TIME_PERIODS)]\n        self.corridor_period_before = [\n            PeriodCorridor() for _ in range(MAX_TIME_PERIODS)]\n    def record_link_2_corridor_data(self, element: PeriodCorridor, tau: int):\n        if tau >= MAX_TIME_PERIODS:\n            return\n        self.corridor_period[tau].volume += element.volume",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "kind": 6,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "class Node:\n    def _initialize_instance_fields(self):\n        self.cell_id = 0\n        self.cell_str = \"\"\n        self.zone_coordinate_vector = []\n        self.node_type = \"\"\n        self.agent_type_str = \"\"\n        self.agent_id = \"\"\n        self.node_id = 0\n        self.x = 0",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "DTA_Direction",
+        "kind": 6,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "class DTA_Direction(Enum):\n    DTA_NULL = 0\n    DTA_NORTH = 1\n    DTA_SOUTH = 2\n    DTA_EAST = 3\n    DTA_WEST = 4\nclass TMC_Corridor_Info:\n    def _initialize_instance_fields(self):\n        self.m_dir = 0\n        self.avg_speed = 0",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "TMC_Corridor_Info",
+        "kind": 6,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "class TMC_Corridor_Info:\n    def _initialize_instance_fields(self):\n        self.m_dir = 0\n        self.avg_speed = 0\n        self.total_congestion_duration = 0\n        self.road_sequence_map = {}\n        self.node_no_vector = []\n        self.point_vector = []\n        self.center = GDPoint()\n    def __init__(self, **kwargs):",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_AGENT_TYPES",
+        "kind": 5,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "MAX_AGENT_TYPES = 10\n# because of the od demand store format, the MAX_demandtype must >= g_DEMANDTYPES.size()+1\nMAX_TIME_PERIODS = 6\n# time period set to 4: mid night, morning peak, mid-day and afternoon peak\nMAX_ORIGIN_DISTRICTS = 30\n# origin based aggregation grids\nMAX_TIME_SLOT_PER_PERIOD = 300\n# max 96 5-min slots per day\nMAX_TIME_INTERVAL_PER_DAY = 300\n# max 96*3 5-min slots per day",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_TIME_PERIODS",
+        "kind": 5,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "MAX_TIME_PERIODS = 6\n# time period set to 4: mid night, morning peak, mid-day and afternoon peak\nMAX_ORIGIN_DISTRICTS = 30\n# origin based aggregation grids\nMAX_TIME_SLOT_PER_PERIOD = 300\n# max 96 5-min slots per day\nMAX_TIME_INTERVAL_PER_DAY = 300\n# max 96*3 5-min slots per day\nMIN_PER_TIME_SLOT = 5\nclass e_traffic_flow_model(Enum):",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_ORIGIN_DISTRICTS",
+        "kind": 5,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "MAX_ORIGIN_DISTRICTS = 30\n# origin based aggregation grids\nMAX_TIME_SLOT_PER_PERIOD = 300\n# max 96 5-min slots per day\nMAX_TIME_INTERVAL_PER_DAY = 300\n# max 96*3 5-min slots per day\nMIN_PER_TIME_SLOT = 5\nclass e_traffic_flow_model(Enum):\n    POINT_QUEUE = 0\n    SPATIAL_QUEUE = 1",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_TIME_SLOT_PER_PERIOD",
+        "kind": 5,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "MAX_TIME_SLOT_PER_PERIOD = 300\n# max 96 5-min slots per day\nMAX_TIME_INTERVAL_PER_DAY = 300\n# max 96*3 5-min slots per day\nMIN_PER_TIME_SLOT = 5\nclass e_traffic_flow_model(Enum):\n    POINT_QUEUE = 0\n    SPATIAL_QUEUE = 1\n    KINEMATIVE_WAVE = 2\nclass e_VDF_type(Enum):",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_TIME_INTERVAL_PER_DAY",
+        "kind": 5,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "MAX_TIME_INTERVAL_PER_DAY = 300\n# max 96*3 5-min slots per day\nMIN_PER_TIME_SLOT = 5\nclass e_traffic_flow_model(Enum):\n    POINT_QUEUE = 0\n    SPATIAL_QUEUE = 1\n    KINEMATIVE_WAVE = 2\nclass e_VDF_type(Enum):\n    Q_VDF = 0\n    BPR_VDF = 1",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "MIN_PER_TIME_SLOT",
+        "kind": 5,
+        "importPath": "python.DTA",
+        "description": "python.DTA",
+        "peekOfCode": "MIN_PER_TIME_SLOT = 5\nclass e_traffic_flow_model(Enum):\n    POINT_QUEUE = 0\n    SPATIAL_QUEUE = 1\n    KINEMATIVE_WAVE = 2\nclass e_VDF_type(Enum):\n    Q_VDF = 0\n    BPR_VDF = 1\nclass e_assignment_mode(Enum):\n    LUE = 0",
+        "detail": "python.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "func_running_time",
+        "kind": 2,
+        "importPath": "python.func_lib",
+        "description": "python.func_lib",
+        "peekOfCode": "def func_running_time(func):\n    def inner(*args, **kwargs):\n        print(f'INFO Begin to run function: {func.__name__} …')\n        time_start = datetime.datetime.now()\n        res = func(*args, **kwargs)\n        time_diff = datetime.datetime.now() - time_start\n        print(\n            f'INFO Finished running function: {func.__name__}, total: {time_diff.seconds}s')\n        print()\n        return res",
+        "detail": "python.func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "path2linux",
+        "kind": 2,
+        "importPath": "python.func_lib",
+        "description": "python.func_lib",
+        "peekOfCode": "def path2linux(path: Union[str, Path]) -> str:\n    \"\"\"Convert a path to a linux path, linux path can run in windows, linux and mac\"\"\"\n    try:\n        return path.replace(\"\\\\\", \"/\")\n    except Exception:\n        return str(path).replace(\"\\\\\", \"/\")\n# get files from a folder by file type\ndef get_file_from_folder_by_type(dir_name: str, file_type: str = \"txt\", isTraverseSubdirectory: bool = False) -> list:\n    if isTraverseSubdirectory:\n        files_list = []",
+        "detail": "python.func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "get_file_from_folder_by_type",
+        "kind": 2,
+        "importPath": "python.func_lib",
+        "description": "python.func_lib",
+        "peekOfCode": "def get_file_from_folder_by_type(dir_name: str, file_type: str = \"txt\", isTraverseSubdirectory: bool = False) -> list:\n    if isTraverseSubdirectory:\n        files_list = []\n        for root, dirs, files in os.walk(dir_name):\n            files_list.extend([os.path.join(root, file) for file in files])\n        return [path2linux(file) for file in files_list if file.split(\".\")[-1] == file_type]\n    # files in the first layer of the folder\n    return [path2linux(os.path.join(dir_name, file)) for file in os.listdir(dir_name) if file.split(\".\")[-1] == file_type]\n# check if the required files exist in the folder by giving required files list and files in the folder\ndef check_required_files_exist(required_files: list, dir_files: list) -> bool:",
+        "detail": "python.func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "check_required_files_exist",
+        "kind": 2,
+        "importPath": "python.func_lib",
+        "description": "python.func_lib",
+        "peekOfCode": "def check_required_files_exist(required_files: list, dir_files: list) -> bool:\n    # format the required file name to standard linux path\n    required_files = [path2linux(os.path.abspath(filename))\n                      for filename in required_files]\n    required_files_short = [filename.split(\n        \"/\")[-1] for filename in required_files]\n    dir_files_short = [filename.split(\"/\")[-1] for filename in dir_files]\n    # mask have the same length as required_files\n    mask = [file in dir_files_short for file in required_files_short]\n    if all(mask):",
+        "detail": "python.func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "check_required_column_names_exist",
+        "kind": 2,
+        "importPath": "python.func_lib",
+        "description": "python.func_lib",
+        "peekOfCode": "def check_required_column_names_exist(required_columns: list, loaded_columns: list) -> bool:\n    if set(required_columns).issubset(set(loaded_columns)):\n        return True\n    print(f\"Error: Required columns are not satisfied, missing columns are: {set(required_columns) - set(loaded_columns)}\")\n    return False\n# check file name exist in path, if exist, then create new file name with _1, _1_1, ...\ndef validate_filename(path_filename: str, ) -> str:\n    \"\"\"if the file name exist in path,then create new file name with _1, _1_1, ...\"\"\"\n    filename_abspath = path2linux(os.path.abspath(path_filename))\n    file_suffix = filename_abspath.split(\".\")[-1]",
+        "detail": "python.func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "validate_filename",
+        "kind": 2,
+        "importPath": "python.func_lib",
+        "description": "python.func_lib",
+        "peekOfCode": "def validate_filename(path_filename: str, ) -> str:\n    \"\"\"if the file name exist in path,then create new file name with _1, _1_1, ...\"\"\"\n    filename_abspath = path2linux(os.path.abspath(path_filename))\n    file_suffix = filename_abspath.split(\".\")[-1]\n    file_without_suffix = filename_abspath[:-len(file_suffix) - 1]\n    if os.path.exists(filename_abspath):\n        filename_update = f\"{file_without_suffix}_1.{file_suffix}\"\n        return validate_filename(filename_update)\n    return filename_abspath\n# generate absolute path for saving file",
+        "detail": "python.func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "generate_absolute_path",
+        "kind": 2,
+        "importPath": "python.func_lib",
+        "description": "python.func_lib",
+        "peekOfCode": "def generate_absolute_path(file_name: str = \"p4g_fig.png\", folder_name: str = \"cbi_results\"):\n    # create folder if not exist\n    if not os.path.isdir(os.path.join(Path(__file__).parent, folder_name)):\n        os.mkdir(os.path.join(Path(__file__).parent, folder_name))\n    return path2linux(os.path.join(Path(__file__).parent, folder_name, file_name))",
+        "detail": "python.func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "required_input_file_dict",
+        "kind": 5,
+        "importPath": "python.utility_lib",
+        "description": "python.utility_lib",
+        "peekOfCode": "required_input_file_dict = {\n    \"settings.yml\": {\"link_type\", \"link_type_name\", \"agent_type_blocklist\", \"type_code\", \"traffic_flow_code\"},\n    \"Reading.csv\": {\"tmc_code\", \"measurement_tstamp\", \"speed\", \"average_speed\", \"reference_speed\", \"travel_time_seconds\", \"confidence_score\", \"cvalue\"},\n    \"TMC_Identification.csv\": {\"tmc\", \"road\", \"direction\", \"intersection\",\n                               \"state\", \"county\", \"zip\", \"start_latitude\",\n                               \"start_longitude\", \"end_latitude\", \"end_longitude\",\n                               \"miles\", \"road_order\", \"timezone_name\", \"type\",\n                               \"country\", \"active_start_date\", \"active_end_date\"}}",
+        "detail": "python.utility_lib",
+        "documentation": {}
+    },
+    {
+        "label": "PeriodVDF",
+        "kind": 6,
+        "importPath": "python.VDF",
+        "description": "python.VDF",
+        "peekOfCode": "class PeriodVDF:\n    def __init__(self, **kwargs):\n        self.vdf_type = 0\n        self.vf = 60\n        self.v_congestion_cutoff = 45\n        self.k_critical = 45\n        self.Q_cd = 0.954946463\n        self.Q_n = 1.141574427\n        self.Q_cp = 0.400089684\n        self.Q_s = 4",
+        "detail": "python.VDF",
+        "documentation": {}
+    },
+    {
+        "label": "CBI_TOOL",
+        "kind": 6,
+        "importPath": "python_v0.cbi_main",
+        "description": "python_v0.cbi_main",
+        "peekOfCode": "class CBI_TOOL:\n    def __init__(self, path_input_folder: str) -> None:\n        # initialize variables for the CBI TOOL\n        self.__initial_values()\n        self.path_input_folder = path_input_folder\n        # Check if all required input files are provided in the input folder\n        self.isRequired = self.__check_required_files_exist_in_folder()\n        if self.isRequired:\n            # prepare demand period for assignment\n            self.__prepare_demand_period_for_assignment()",
+        "detail": "python_v0.cbi_main",
+        "documentation": {}
+    },
+    {
+        "label": "e_traffic_flow_model",
+        "kind": 6,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "class e_traffic_flow_model(Enum):\n    POINT_QUEUE = 0\n    SPATIAL_QUEUE = 1\n    KINEMATIVE_WAVE = 2\nclass e_VDF_type(Enum):\n    Q_VDF = 0\n    BPR_VDF = 1\nclass e_assignment_mode(Enum):\n    LUE = 0\n    DTA = 3",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "e_VDF_type",
+        "kind": 6,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "class e_VDF_type(Enum):\n    Q_VDF = 0\n    BPR_VDF = 1\nclass e_assignment_mode(Enum):\n    LUE = 0\n    DTA = 3\n    CBI = 11\n    CBSA = 12\nclass TMCLink:\n    def __init__(self):",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "e_assignment_mode",
+        "kind": 6,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "class e_assignment_mode(Enum):\n    LUE = 0\n    DTA = 3\n    CBI = 11\n    CBSA = 12\nclass TMCLink:\n    def __init__(self):\n        self.b_with_sensor_speed_data = False\n        self.speed_sum = [0 for _ in range(MAX_TIME_INTERVAL_PER_DAY)]\n        self.avg_speed = [0 for _ in range(MAX_TIME_INTERVAL_PER_DAY)]",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "TMCLink",
+        "kind": 6,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "class TMCLink:\n    def __init__(self):\n        self.b_with_sensor_speed_data = False\n        self.speed_sum = [0 for _ in range(MAX_TIME_INTERVAL_PER_DAY)]\n        self.avg_speed = [0 for _ in range(MAX_TIME_INTERVAL_PER_DAY)]\n        self.speed_lowest = [0 for _ in range(MAX_TIME_INTERVAL_PER_DAY)]\n        self.volume_sum = [0 for _ in range(MAX_TIME_INTERVAL_PER_DAY)]\n        self.avg_volume = [0 for _ in range(MAX_TIME_INTERVAL_PER_DAY)]\n        self.b_volume_data_available_flag = [False for _ in range(MAX_TIME_INTERVAL_PER_DAY)]\n        self.speed_count = [0 for _ in range(MAX_TIME_INTERVAL_PER_DAY)]",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "map_tmc_reading",
+        "kind": 2,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "def map_tmc_reading(ReadingDataFile: str) -> pd.DataFrame:\n    # TDD development\n    if not isinstance(ReadingDataFile, str):\n        raise TypeError('ReadingDataFile must be a string')\n    if ReadingDataFile.split('.')[-1] != 'csv':\n        raise TypeError('ReadingDataFile must be a csv file')\n    col_names = [\"tmc_code\", \"measurement_tstamp\", \"speed\", \"reference_speed\"]\n    col_names_not_in_file = [\"volume_pl\", \"ROADNAME\"]\n    df_reading = pd.read_csv(ReadingDataFile)\n    #  applied data conversion",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "g_day_of_week",
+        "kind": 2,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "def g_day_of_week(year: int, month: int, day: int) -> int:\n    return datetime.datetime(year, month, day).timetuple().tm_wday\ndef g_day_of_year(year: int, month: int, day: int) -> int:\n    return datetime.datetime(year, month, day).timetuple().tm_yday\ndef convert_tstamp_to_iso(time_str: str):\n    return pd.to_datetime(time_str).isoformat()\ndef g_measurement_tstamp_parser(time_str: str, day_of_week_flag: int, day_of_year: int) -> float:\n    datetime_time = pd.to_datetime(time_str)\n    yyyy = datetime_time.year\n    month = datetime_time.month",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "g_day_of_year",
+        "kind": 2,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "def g_day_of_year(year: int, month: int, day: int) -> int:\n    return datetime.datetime(year, month, day).timetuple().tm_yday\ndef convert_tstamp_to_iso(time_str: str):\n    return pd.to_datetime(time_str).isoformat()\ndef g_measurement_tstamp_parser(time_str: str, day_of_week_flag: int, day_of_year: int) -> float:\n    datetime_time = pd.to_datetime(time_str)\n    yyyy = datetime_time.year\n    month = datetime_time.month\n    day = datetime_time.day\n    buf_hh = [0] * 32",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "convert_tstamp_to_iso",
+        "kind": 2,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "def convert_tstamp_to_iso(time_str: str):\n    return pd.to_datetime(time_str).isoformat()\ndef g_measurement_tstamp_parser(time_str: str, day_of_week_flag: int, day_of_year: int) -> float:\n    datetime_time = pd.to_datetime(time_str)\n    yyyy = datetime_time.year\n    month = datetime_time.month\n    day = datetime_time.day\n    buf_hh = [0] * 32\n    buf_mm = [0] * 32\n    buf_ss = [0] * 32",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "g_measurement_tstamp_parser",
+        "kind": 2,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "def g_measurement_tstamp_parser(time_str: str, day_of_week_flag: int, day_of_year: int) -> float:\n    datetime_time = pd.to_datetime(time_str)\n    yyyy = datetime_time.year\n    month = datetime_time.month\n    day = datetime_time.day\n    buf_hh = [0] * 32\n    buf_mm = [0] * 32\n    buf_ss = [0] * 32\n    # day_of_week_flag = g_day_of_week(yyyy, month, day)\n    day_of_year = g_day_of_year(yyyy, month, day)",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "g_output_tmc_file",
+        "kind": 2,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "def g_output_tmc_file() -> None:\n    cbi_col_1 = [\"link_id\", \"tmc\", \"tmc_corridor_name\", \"tmc_corridor_id\",\n                 \"tmc_road_order\", \"tmc_road_sequence\", \"tmc_road\", \"tmc_direction\",\n                 \"tmc_intersection\", \"tmc_highest_speed\", \"link_no\",\n                 \"from_node_id\", \"to_node_id\", \"link_type\"]\n    cbi_col_2 = [\"link_type_code\", \"FT\", \"AT\", \"vdf_code\",\n                 \"nlanes\", \"link_distance_VDF\", \"free_speed\",\n                 \"capacity\", \"k_critical\", \"vcutoff\", \"highest_speed\",\n                 \"vcutoff_updated\", \"vcutoff_ratio\", \"v_critical_s3\"]\ndef g_output_qvdf_file() -> None:",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "g_output_qvdf_file",
+        "kind": 2,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "def g_output_qvdf_file() -> None:\n    pass\nif __name__ == \"__main__\":\n    df = map_tmc_reading(\"./data_input/Reading.csv\")",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_LABEL_COST",
+        "kind": 5,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "MAX_LABEL_COST = 1.0e+15\nINFO_ZONE_ID = 100000\nMAX_AGENT_TYPES = 10\n# because of the od demand store format, the MAX_demandtype must >= g_DEMANDTYPES.size()+1\nMAX_TIME_PERIODS = 6\n# time period set to 4: mid night, morning peak, mid-day and afternoon peak\nMAX_ORIGIN_DISTRICTS = 30\n# origin based aggregation grids\nMAX_MEMORY_BLOCKS = 100\nMAX_LINK_SIZE_IN_A_PATH = 10000",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "INFO_ZONE_ID",
+        "kind": 5,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "INFO_ZONE_ID = 100000\nMAX_AGENT_TYPES = 10\n# because of the od demand store format, the MAX_demandtype must >= g_DEMANDTYPES.size()+1\nMAX_TIME_PERIODS = 6\n# time period set to 4: mid night, morning peak, mid-day and afternoon peak\nMAX_ORIGIN_DISTRICTS = 30\n# origin based aggregation grids\nMAX_MEMORY_BLOCKS = 100\nMAX_LINK_SIZE_IN_A_PATH = 10000\nMAX_LINK_SIZE_FOR_A_NODE = 10000",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_AGENT_TYPES",
+        "kind": 5,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "MAX_AGENT_TYPES = 10\n# because of the od demand store format, the MAX_demandtype must >= g_DEMANDTYPES.size()+1\nMAX_TIME_PERIODS = 6\n# time period set to 4: mid night, morning peak, mid-day and afternoon peak\nMAX_ORIGIN_DISTRICTS = 30\n# origin based aggregation grids\nMAX_MEMORY_BLOCKS = 100\nMAX_LINK_SIZE_IN_A_PATH = 10000\nMAX_LINK_SIZE_FOR_A_NODE = 10000\nMAX_TIME_SLOT_PER_PERIOD = 300",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_TIME_PERIODS",
+        "kind": 5,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "MAX_TIME_PERIODS = 6\n# time period set to 4: mid night, morning peak, mid-day and afternoon peak\nMAX_ORIGIN_DISTRICTS = 30\n# origin based aggregation grids\nMAX_MEMORY_BLOCKS = 100\nMAX_LINK_SIZE_IN_A_PATH = 10000\nMAX_LINK_SIZE_FOR_A_NODE = 10000\nMAX_TIME_SLOT_PER_PERIOD = 300\n# max 96 5-min slots per day\nMAX_TIME_INTERVAL_PER_DAY = 300",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_ORIGIN_DISTRICTS",
+        "kind": 5,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "MAX_ORIGIN_DISTRICTS = 30\n# origin based aggregation grids\nMAX_MEMORY_BLOCKS = 100\nMAX_LINK_SIZE_IN_A_PATH = 10000\nMAX_LINK_SIZE_FOR_A_NODE = 10000\nMAX_TIME_SLOT_PER_PERIOD = 300\n# max 96 5-min slots per day\nMAX_TIME_INTERVAL_PER_DAY = 300\n# max 96*3 5-min slots per day\nMAX_DAY_PER_YEAR = 360",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_MEMORY_BLOCKS",
+        "kind": 5,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "MAX_MEMORY_BLOCKS = 100\nMAX_LINK_SIZE_IN_A_PATH = 10000\nMAX_LINK_SIZE_FOR_A_NODE = 10000\nMAX_TIME_SLOT_PER_PERIOD = 300\n# max 96 5-min slots per day\nMAX_TIME_INTERVAL_PER_DAY = 300\n# max 96*3 5-min slots per day\nMAX_DAY_PER_YEAR = 360\n# max 96*3 5-min slots per day\nDEFAULT_SATURATION_FLOW_RATE = 1800",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_LINK_SIZE_IN_A_PATH",
+        "kind": 5,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "MAX_LINK_SIZE_IN_A_PATH = 10000\nMAX_LINK_SIZE_FOR_A_NODE = 10000\nMAX_TIME_SLOT_PER_PERIOD = 300\n# max 96 5-min slots per day\nMAX_TIME_INTERVAL_PER_DAY = 300\n# max 96*3 5-min slots per day\nMAX_DAY_PER_YEAR = 360\n# max 96*3 5-min slots per day\nDEFAULT_SATURATION_FLOW_RATE = 1800\nMIN_PER_TIME_SLOT = 5",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_LINK_SIZE_FOR_A_NODE",
+        "kind": 5,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "MAX_LINK_SIZE_FOR_A_NODE = 10000\nMAX_TIME_SLOT_PER_PERIOD = 300\n# max 96 5-min slots per day\nMAX_TIME_INTERVAL_PER_DAY = 300\n# max 96*3 5-min slots per day\nMAX_DAY_PER_YEAR = 360\n# max 96*3 5-min slots per day\nDEFAULT_SATURATION_FLOW_RATE = 1800\nMIN_PER_TIME_SLOT = 5\nSIMULATION_DISCHARGE_PERIOD_IN_MIN = 60",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_TIME_SLOT_PER_PERIOD",
+        "kind": 5,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "MAX_TIME_SLOT_PER_PERIOD = 300\n# max 96 5-min slots per day\nMAX_TIME_INTERVAL_PER_DAY = 300\n# max 96*3 5-min slots per day\nMAX_DAY_PER_YEAR = 360\n# max 96*3 5-min slots per day\nDEFAULT_SATURATION_FLOW_RATE = 1800\nMIN_PER_TIME_SLOT = 5\nSIMULATION_DISCHARGE_PERIOD_IN_MIN = 60\nMICRO_NET_NODE_ID_BIG_M = 10000000",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_TIME_INTERVAL_PER_DAY",
+        "kind": 5,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "MAX_TIME_INTERVAL_PER_DAY = 300\n# max 96*3 5-min slots per day\nMAX_DAY_PER_YEAR = 360\n# max 96*3 5-min slots per day\nDEFAULT_SATURATION_FLOW_RATE = 1800\nMIN_PER_TIME_SLOT = 5\nSIMULATION_DISCHARGE_PERIOD_IN_MIN = 60\nMICRO_NET_NODE_ID_BIG_M = 10000000\n# ### NOTE make sure we change the following two parameters together ####\nNUMBER_OF_SECONDS_PER_INTERVAL = 0.25",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_DAY_PER_YEAR",
+        "kind": 5,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "MAX_DAY_PER_YEAR = 360\n# max 96*3 5-min slots per day\nDEFAULT_SATURATION_FLOW_RATE = 1800\nMIN_PER_TIME_SLOT = 5\nSIMULATION_DISCHARGE_PERIOD_IN_MIN = 60\nMICRO_NET_NODE_ID_BIG_M = 10000000\n# ### NOTE make sure we change the following two parameters together ####\nNUMBER_OF_SECONDS_PER_INTERVAL = 0.25\n# consistent with the cell link_distance_VDF of 7 meters\nNUMBER_OF_SIMULATION_INTERVAL_REACTION_TIME = 4",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_SATURATION_FLOW_RATE",
+        "kind": 5,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "DEFAULT_SATURATION_FLOW_RATE = 1800\nMIN_PER_TIME_SLOT = 5\nSIMULATION_DISCHARGE_PERIOD_IN_MIN = 60\nMICRO_NET_NODE_ID_BIG_M = 10000000\n# ### NOTE make sure we change the following two parameters together ####\nNUMBER_OF_SECONDS_PER_INTERVAL = 0.25\n# consistent with the cell link_distance_VDF of 7 meters\nNUMBER_OF_SIMULATION_INTERVAL_REACTION_TIME = 4\n# reaction time as 1 second, 4 simu intervals, CAV: 0.5 seconds\nNUMBER_OF_SIMULATION_INTERVAL_IN_MIN = 240",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "MIN_PER_TIME_SLOT",
+        "kind": 5,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "MIN_PER_TIME_SLOT = 5\nSIMULATION_DISCHARGE_PERIOD_IN_MIN = 60\nMICRO_NET_NODE_ID_BIG_M = 10000000\n# ### NOTE make sure we change the following two parameters together ####\nNUMBER_OF_SECONDS_PER_INTERVAL = 0.25\n# consistent with the cell link_distance_VDF of 7 meters\nNUMBER_OF_SIMULATION_INTERVAL_REACTION_TIME = 4\n# reaction time as 1 second, 4 simu intervals, CAV: 0.5 seconds\nNUMBER_OF_SIMULATION_INTERVAL_IN_MIN = 240\n# 60/0.25 number_of_seconds_per_interval",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "SIMULATION_DISCHARGE_PERIOD_IN_MIN",
+        "kind": 5,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "SIMULATION_DISCHARGE_PERIOD_IN_MIN = 60\nMICRO_NET_NODE_ID_BIG_M = 10000000\n# ### NOTE make sure we change the following two parameters together ####\nNUMBER_OF_SECONDS_PER_INTERVAL = 0.25\n# consistent with the cell link_distance_VDF of 7 meters\nNUMBER_OF_SIMULATION_INTERVAL_REACTION_TIME = 4\n# reaction time as 1 second, 4 simu intervals, CAV: 0.5 seconds\nNUMBER_OF_SIMULATION_INTERVAL_IN_MIN = 240\n# 60/0.25 number_of_seconds_per_interval\nclass e_traffic_flow_model(Enum):",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "MICRO_NET_NODE_ID_BIG_M",
+        "kind": 5,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "MICRO_NET_NODE_ID_BIG_M = 10000000\n# ### NOTE make sure we change the following two parameters together ####\nNUMBER_OF_SECONDS_PER_INTERVAL = 0.25\n# consistent with the cell link_distance_VDF of 7 meters\nNUMBER_OF_SIMULATION_INTERVAL_REACTION_TIME = 4\n# reaction time as 1 second, 4 simu intervals, CAV: 0.5 seconds\nNUMBER_OF_SIMULATION_INTERVAL_IN_MIN = 240\n# 60/0.25 number_of_seconds_per_interval\nclass e_traffic_flow_model(Enum):\n    POINT_QUEUE = 0",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "NUMBER_OF_SECONDS_PER_INTERVAL",
+        "kind": 5,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "NUMBER_OF_SECONDS_PER_INTERVAL = 0.25\n# consistent with the cell link_distance_VDF of 7 meters\nNUMBER_OF_SIMULATION_INTERVAL_REACTION_TIME = 4\n# reaction time as 1 second, 4 simu intervals, CAV: 0.5 seconds\nNUMBER_OF_SIMULATION_INTERVAL_IN_MIN = 240\n# 60/0.25 number_of_seconds_per_interval\nclass e_traffic_flow_model(Enum):\n    POINT_QUEUE = 0\n    SPATIAL_QUEUE = 1\n    KINEMATIVE_WAVE = 2",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "NUMBER_OF_SIMULATION_INTERVAL_REACTION_TIME",
+        "kind": 5,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "NUMBER_OF_SIMULATION_INTERVAL_REACTION_TIME = 4\n# reaction time as 1 second, 4 simu intervals, CAV: 0.5 seconds\nNUMBER_OF_SIMULATION_INTERVAL_IN_MIN = 240\n# 60/0.25 number_of_seconds_per_interval\nclass e_traffic_flow_model(Enum):\n    POINT_QUEUE = 0\n    SPATIAL_QUEUE = 1\n    KINEMATIVE_WAVE = 2\nclass e_VDF_type(Enum):\n    Q_VDF = 0",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "NUMBER_OF_SIMULATION_INTERVAL_IN_MIN",
+        "kind": 5,
+        "importPath": "python_v0.cbi_reading",
+        "description": "python_v0.cbi_reading",
+        "peekOfCode": "NUMBER_OF_SIMULATION_INTERVAL_IN_MIN = 240\n# 60/0.25 number_of_seconds_per_interval\nclass e_traffic_flow_model(Enum):\n    POINT_QUEUE = 0\n    SPATIAL_QUEUE = 1\n    KINEMATIVE_WAVE = 2\nclass e_VDF_type(Enum):\n    Q_VDF = 0\n    BPR_VDF = 1\nclass e_assignment_mode(Enum):",
+        "detail": "python_v0.cbi_reading",
+        "documentation": {}
+    },
+    {
+        "label": "e_traffic_flow_model",
+        "kind": 6,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "class e_traffic_flow_model(Enum):\n    POINT_QUEUE = 0\n    SPATIAL_QUEUE = 1\n    KINEMATIVE_WAVE = 2\nclass e_VDF_type(Enum):\n    Q_VDF = 0\n    BPR_VDF = 1\nclass e_assignment_mode(Enum):\n    LUE = 0\n    DTA = 3",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "e_VDF_type",
+        "kind": 6,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "class e_VDF_type(Enum):\n    Q_VDF = 0\n    BPR_VDF = 1\nclass e_assignment_mode(Enum):\n    LUE = 0\n    DTA = 3\n    CBI = 11\n    CBSA = 12\nclass DemandPeriod:\n    def _initialize_instance_fields(self):",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "e_assignment_mode",
+        "kind": 6,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "class e_assignment_mode(Enum):\n    LUE = 0\n    DTA = 3\n    CBI = 11\n    CBSA = 12\nclass DemandPeriod:\n    def _initialize_instance_fields(self):\n        # instance fields found by C++ to Python Converter:\n        self.demand_period = \"\"\n        self.starting_time_slot_no = 0",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "DemandPeriod",
+        "kind": 6,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "class DemandPeriod:\n    def _initialize_instance_fields(self):\n        # instance fields found by C++ to Python Converter:\n        self.demand_period = \"\"\n        self.starting_time_slot_no = 0\n        self.ending_time_slot_no = 0\n        self.time_period_in_hour = 0\n        self.t2_peak_in_hour = 0\n        self.time_period = \"\"\n        self.number_of_demand_files = 0",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "DepartureTimeProfile",
+        "kind": 6,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "class DepartureTimeProfile:\n    def __init__(self, **kwargs):\n        self.departure_time_profile_no = 0\n        self.m_RandomSeed = 101\n        self.starting_time_slot_no = 0\n        self.ending_time_slot_no = 0\n        self.departure_time_ratio = [0 for _ in range(MAX_TIME_SLOT_PER_PERIOD)]\n        self.cumulative_departure_time_ratio = [0 for _ in range(MAX_TIME_SLOT_PER_PERIOD)]\n        if kwargs:\n            for key in kwargs:",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "AgentTypeDistrict",
+        "kind": 6,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "class AgentTypeDistrict:\n    def __init__(self, **kwargs):\n        self.count_of_links = 0\n        self.total_od_volume = 0\n        self.total_person_distance_km = 0\n        self.total_person_distance_mile = 0\n        self.total_person_travel_time = 0\n        self.avg_travel_time = 0\n        self.avg_travel_distance_km = 0\n        self.avg_travel_distance_mile = 0",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "AnalysisDistrict",
+        "kind": 6,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "class AnalysisDistrict:\n    def __init__(self, **kwargs):\n        self.district_id = 0\n        self.district_name = 0\n        self.shape_points = []\n        self.data_by_agent_type = [AgentTypeDistrict() for _ in range(MAX_AGENT_TYPES)]\n        if kwargs:\n            for key in kwargs:\n                setattr(self, key, kwargs[key])\n    def record_origin_2_district_volume(self, at: int, od_volume: float):",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "AgentType",
+        "kind": 6,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "class AgentType:\n    def _initialize_instance_fields(self):\n        self.agent_type = \"\"\n        self.display_code = \"\"\n        self.access_node_type = \"\"\n        self.zone_id_cover_map = {}\n    def __init__(self, **kwargs):\n        self._initialize_instance_fields()\n        self.agent_type_no = 1\n        self.value_of_time = 100",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "LinkType",
+        "kind": 6,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "class LinkType:\n    def _initialize_instance_fields(self):\n        self.link_type_name = \"\"\n        self.type_code = \"\"\n    def __init__(self, **kwargs):\n        self._initialize_instance_fields()\n        self.link_type = 1\n        self.number_of_links = 0\n        self.traffic_flow_code = e_traffic_flow_model.SPATIAL_QUEUE\n        self.k_jam = 300",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "DTAVehListPerTimeInterval",
+        "kind": 6,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "class DTAVehListPerTimeInterval:\n    def __init__(self, **kwargs):\n        self.m_AgentIDVector = []\n        if kwargs:\n            for key in kwargs:\n                setattr(self, key, kwargs[key])\nclass Assignment:\n    def _initialize_instance_fields(self):\n        self.zone_id_to_centriod_node_no_mapping = {}\n        self.zone_id_2_node_no_mapping = {}",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "Assignment",
+        "kind": 6,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "class Assignment:\n    def _initialize_instance_fields(self):\n        self.zone_id_to_centriod_node_no_mapping = {}\n        self.zone_id_2_node_no_mapping = {}\n        self.zone_id_2_cell_id_mapping = {}\n        self.cell_id_mapping = {}\n        self.cell_id_2_cell_code_mapping = {}\n        self.g_origin_demand_array = {}\n        self.node_seq_no_2_info_zone_id_mapping = {}\n        self.zone_seq_no_2_info_mapping = {}",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "GDPoint",
+        "kind": 6,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "class GDPoint:\n    def __init__(self, **kwargs):\n        self.x = 0\n        self.y = 0\n        self.node_no = 0\n        self.distance_from_origin = 0\n        if kwargs:\n            for key in kwargs:\n                setattr(self, key, kwargs[key])\n    def less_than(self, other):",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "Link",
+        "kind": 6,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "class Link:\n    def _initialize_instance_fields(self):\n        self.m_link_pedefined_capacity_map_in_sec = {}\n        self.m_link_pedefined_information_response_map = {}\n        self.model_speed = [0 for _ in range(MAX_TIME_INTERVAL_PER_DAY)]\n        self.est_volume_per_hour_per_lane = [0 for _ in range(MAX_TIME_INTERVAL_PER_DAY)]\n        self.est_avg_waiting_time_in_min = [0 for _ in range(MAX_TIME_INTERVAL_PER_DAY)]\n        self.est_queue_length_per_lane = [0 for _ in range(MAX_TIME_INTERVAL_PER_DAY)]\n        self.dynamic_link_closure_map = {}\n        self.dynamic_link_closure_type_map = {}",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "VDFType",
+        "kind": 6,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "class VDFType:\n    def __init__(self):\n        self.vdf_code = \"\"\n        self.VDF_period_sum = [PeriodVDF() for _ in range(MAX_TIME_PERIODS)]\n    def record_qvdf_data(self, element: PeriodVDF, tau: int):\n        # sourcery skip: extract-method\n        if tau >= MAX_TIME_PERIODS:\n            return\n        if self.VDF_period_sum[tau].vdf_data_count == 0:\n            self.VDF_period_sum[tau].peak_load_factor = element.peak_load_factor",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "PeriodCorridor",
+        "kind": 6,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "class PeriodCorridor:\n    def __init__(self):\n        self.volume = 0\n        self.count = 0\n        self.speed = 0\n        self.DoC = 0\n        self.P = 0\n        self.AvgP = 0\n        self.MaxP = 0\nclass Corridor_Info:",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "Corridor_Info",
+        "kind": 6,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "class Corridor_Info:\n    def __init__(self):\n        self.tmc_corridor_name = \"\"\n        self.corridor_period = [PeriodCorridor() for _ in range(MAX_TIME_PERIODS)]\n        self.corridor_period_before = [\n            PeriodCorridor() for _ in range(MAX_TIME_PERIODS)]\n    def record_link_2_corridor_data(self, element: PeriodCorridor, tau: int):\n        if tau >= MAX_TIME_PERIODS:\n            return\n        self.corridor_period[tau].volume += element.volume",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "kind": 6,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "class Node:\n    def _initialize_instance_fields(self):\n        self.cell_id = 0\n        self.cell_str = \"\"\n        self.zone_coordinate_vector = []\n        self.node_type = \"\"\n        self.agent_type_str = \"\"\n        self.agent_id = \"\"\n        self.node_id = 0\n        self.x = 0",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "DTA_Direction",
+        "kind": 6,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "class DTA_Direction(Enum):\n    DTA_NULL = 0\n    DTA_NORTH = 1\n    DTA_SOUTH = 2\n    DTA_EAST = 3\n    DTA_WEST = 4\nclass TMC_Corridor_Info:\n    def _initialize_instance_fields(self):\n        self.m_dir = 0\n        self.avg_speed = 0",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "TMC_Corridor_Info",
+        "kind": 6,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "class TMC_Corridor_Info:\n    def _initialize_instance_fields(self):\n        self.m_dir = 0\n        self.avg_speed = 0\n        self.total_congestion_duration = 0\n        self.road_sequence_map = {}\n        self.node_no_vector = []\n        self.point_vector = []\n        self.center = GDPoint()\n    def __init__(self, **kwargs):",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_LABEL_COST",
+        "kind": 5,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "MAX_LABEL_COST = 1.0e+15\nINFO_ZONE_ID = 100000\nMAX_AGENT_TYPES = 10\n# because of the od demand store format, the MAX_demandtype must >= g_DEMANDTYPES.size()+1\nMAX_TIME_PERIODS = 6\n# time period set to 4: mid night, morning peak, mid-day and afternoon peak\nMAX_ORIGIN_DISTRICTS = 30\n# origin based aggregation grids\nMAX_MEMORY_BLOCKS = 100\nMAX_LINK_SIZE_IN_A_PATH = 10000",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "INFO_ZONE_ID",
+        "kind": 5,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "INFO_ZONE_ID = 100000\nMAX_AGENT_TYPES = 10\n# because of the od demand store format, the MAX_demandtype must >= g_DEMANDTYPES.size()+1\nMAX_TIME_PERIODS = 6\n# time period set to 4: mid night, morning peak, mid-day and afternoon peak\nMAX_ORIGIN_DISTRICTS = 30\n# origin based aggregation grids\nMAX_MEMORY_BLOCKS = 100\nMAX_LINK_SIZE_IN_A_PATH = 10000\nMAX_LINK_SIZE_FOR_A_NODE = 10000",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_AGENT_TYPES",
+        "kind": 5,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "MAX_AGENT_TYPES = 10\n# because of the od demand store format, the MAX_demandtype must >= g_DEMANDTYPES.size()+1\nMAX_TIME_PERIODS = 6\n# time period set to 4: mid night, morning peak, mid-day and afternoon peak\nMAX_ORIGIN_DISTRICTS = 30\n# origin based aggregation grids\nMAX_MEMORY_BLOCKS = 100\nMAX_LINK_SIZE_IN_A_PATH = 10000\nMAX_LINK_SIZE_FOR_A_NODE = 10000\nMAX_TIME_SLOT_PER_PERIOD = 300",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_TIME_PERIODS",
+        "kind": 5,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "MAX_TIME_PERIODS = 6\n# time period set to 4: mid night, morning peak, mid-day and afternoon peak\nMAX_ORIGIN_DISTRICTS = 30\n# origin based aggregation grids\nMAX_MEMORY_BLOCKS = 100\nMAX_LINK_SIZE_IN_A_PATH = 10000\nMAX_LINK_SIZE_FOR_A_NODE = 10000\nMAX_TIME_SLOT_PER_PERIOD = 300\n# max 96 5-min slots per day\nMAX_TIME_INTERVAL_PER_DAY = 300",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_ORIGIN_DISTRICTS",
+        "kind": 5,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "MAX_ORIGIN_DISTRICTS = 30\n# origin based aggregation grids\nMAX_MEMORY_BLOCKS = 100\nMAX_LINK_SIZE_IN_A_PATH = 10000\nMAX_LINK_SIZE_FOR_A_NODE = 10000\nMAX_TIME_SLOT_PER_PERIOD = 300\n# max 96 5-min slots per day\nMAX_TIME_INTERVAL_PER_DAY = 300\n# max 96*3 5-min slots per day\nMAX_DAY_PER_YEAR = 360",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_MEMORY_BLOCKS",
+        "kind": 5,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "MAX_MEMORY_BLOCKS = 100\nMAX_LINK_SIZE_IN_A_PATH = 10000\nMAX_LINK_SIZE_FOR_A_NODE = 10000\nMAX_TIME_SLOT_PER_PERIOD = 300\n# max 96 5-min slots per day\nMAX_TIME_INTERVAL_PER_DAY = 300\n# max 96*3 5-min slots per day\nMAX_DAY_PER_YEAR = 360\n# max 96*3 5-min slots per day\nDEFAULT_SATURATION_FLOW_RATE = 1800",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_LINK_SIZE_IN_A_PATH",
+        "kind": 5,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "MAX_LINK_SIZE_IN_A_PATH = 10000\nMAX_LINK_SIZE_FOR_A_NODE = 10000\nMAX_TIME_SLOT_PER_PERIOD = 300\n# max 96 5-min slots per day\nMAX_TIME_INTERVAL_PER_DAY = 300\n# max 96*3 5-min slots per day\nMAX_DAY_PER_YEAR = 360\n# max 96*3 5-min slots per day\nDEFAULT_SATURATION_FLOW_RATE = 1800\nMIN_PER_TIME_SLOT = 5",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_LINK_SIZE_FOR_A_NODE",
+        "kind": 5,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "MAX_LINK_SIZE_FOR_A_NODE = 10000\nMAX_TIME_SLOT_PER_PERIOD = 300\n# max 96 5-min slots per day\nMAX_TIME_INTERVAL_PER_DAY = 300\n# max 96*3 5-min slots per day\nMAX_DAY_PER_YEAR = 360\n# max 96*3 5-min slots per day\nDEFAULT_SATURATION_FLOW_RATE = 1800\nMIN_PER_TIME_SLOT = 5\nSIMULATION_DISCHARGE_PERIOD_IN_MIN = 60",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_TIME_SLOT_PER_PERIOD",
+        "kind": 5,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "MAX_TIME_SLOT_PER_PERIOD = 300\n# max 96 5-min slots per day\nMAX_TIME_INTERVAL_PER_DAY = 300\n# max 96*3 5-min slots per day\nMAX_DAY_PER_YEAR = 360\n# max 96*3 5-min slots per day\nDEFAULT_SATURATION_FLOW_RATE = 1800\nMIN_PER_TIME_SLOT = 5\nSIMULATION_DISCHARGE_PERIOD_IN_MIN = 60\nMICRO_NET_NODE_ID_BIG_M = 10000000",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_TIME_INTERVAL_PER_DAY",
+        "kind": 5,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "MAX_TIME_INTERVAL_PER_DAY = 300\n# max 96*3 5-min slots per day\nMAX_DAY_PER_YEAR = 360\n# max 96*3 5-min slots per day\nDEFAULT_SATURATION_FLOW_RATE = 1800\nMIN_PER_TIME_SLOT = 5\nSIMULATION_DISCHARGE_PERIOD_IN_MIN = 60\nMICRO_NET_NODE_ID_BIG_M = 10000000\n# ### NOTE make sure we change the following two parameters together ####\nNUMBER_OF_SECONDS_PER_INTERVAL = 0.25",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_DAY_PER_YEAR",
+        "kind": 5,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "MAX_DAY_PER_YEAR = 360\n# max 96*3 5-min slots per day\nDEFAULT_SATURATION_FLOW_RATE = 1800\nMIN_PER_TIME_SLOT = 5\nSIMULATION_DISCHARGE_PERIOD_IN_MIN = 60\nMICRO_NET_NODE_ID_BIG_M = 10000000\n# ### NOTE make sure we change the following two parameters together ####\nNUMBER_OF_SECONDS_PER_INTERVAL = 0.25\n# consistent with the cell link_distance_VDF of 7 meters\nNUMBER_OF_SIMULATION_INTERVAL_REACTION_TIME = 4",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_SATURATION_FLOW_RATE",
+        "kind": 5,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "DEFAULT_SATURATION_FLOW_RATE = 1800\nMIN_PER_TIME_SLOT = 5\nSIMULATION_DISCHARGE_PERIOD_IN_MIN = 60\nMICRO_NET_NODE_ID_BIG_M = 10000000\n# ### NOTE make sure we change the following two parameters together ####\nNUMBER_OF_SECONDS_PER_INTERVAL = 0.25\n# consistent with the cell link_distance_VDF of 7 meters\nNUMBER_OF_SIMULATION_INTERVAL_REACTION_TIME = 4\n# reaction time as 1 second, 4 simu intervals, CAV: 0.5 seconds\nNUMBER_OF_SIMULATION_INTERVAL_IN_MIN = 240",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "MIN_PER_TIME_SLOT",
+        "kind": 5,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "MIN_PER_TIME_SLOT = 5\nSIMULATION_DISCHARGE_PERIOD_IN_MIN = 60\nMICRO_NET_NODE_ID_BIG_M = 10000000\n# ### NOTE make sure we change the following two parameters together ####\nNUMBER_OF_SECONDS_PER_INTERVAL = 0.25\n# consistent with the cell link_distance_VDF of 7 meters\nNUMBER_OF_SIMULATION_INTERVAL_REACTION_TIME = 4\n# reaction time as 1 second, 4 simu intervals, CAV: 0.5 seconds\nNUMBER_OF_SIMULATION_INTERVAL_IN_MIN = 240\n# 60/0.25 number_of_seconds_per_interval",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "SIMULATION_DISCHARGE_PERIOD_IN_MIN",
+        "kind": 5,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "SIMULATION_DISCHARGE_PERIOD_IN_MIN = 60\nMICRO_NET_NODE_ID_BIG_M = 10000000\n# ### NOTE make sure we change the following two parameters together ####\nNUMBER_OF_SECONDS_PER_INTERVAL = 0.25\n# consistent with the cell link_distance_VDF of 7 meters\nNUMBER_OF_SIMULATION_INTERVAL_REACTION_TIME = 4\n# reaction time as 1 second, 4 simu intervals, CAV: 0.5 seconds\nNUMBER_OF_SIMULATION_INTERVAL_IN_MIN = 240\n# 60/0.25 number_of_seconds_per_interval\nclass e_traffic_flow_model(Enum):",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "MICRO_NET_NODE_ID_BIG_M",
+        "kind": 5,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "MICRO_NET_NODE_ID_BIG_M = 10000000\n# ### NOTE make sure we change the following two parameters together ####\nNUMBER_OF_SECONDS_PER_INTERVAL = 0.25\n# consistent with the cell link_distance_VDF of 7 meters\nNUMBER_OF_SIMULATION_INTERVAL_REACTION_TIME = 4\n# reaction time as 1 second, 4 simu intervals, CAV: 0.5 seconds\nNUMBER_OF_SIMULATION_INTERVAL_IN_MIN = 240\n# 60/0.25 number_of_seconds_per_interval\nclass e_traffic_flow_model(Enum):\n    POINT_QUEUE = 0",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "NUMBER_OF_SECONDS_PER_INTERVAL",
+        "kind": 5,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "NUMBER_OF_SECONDS_PER_INTERVAL = 0.25\n# consistent with the cell link_distance_VDF of 7 meters\nNUMBER_OF_SIMULATION_INTERVAL_REACTION_TIME = 4\n# reaction time as 1 second, 4 simu intervals, CAV: 0.5 seconds\nNUMBER_OF_SIMULATION_INTERVAL_IN_MIN = 240\n# 60/0.25 number_of_seconds_per_interval\nclass e_traffic_flow_model(Enum):\n    POINT_QUEUE = 0\n    SPATIAL_QUEUE = 1\n    KINEMATIVE_WAVE = 2",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "NUMBER_OF_SIMULATION_INTERVAL_REACTION_TIME",
+        "kind": 5,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "NUMBER_OF_SIMULATION_INTERVAL_REACTION_TIME = 4\n# reaction time as 1 second, 4 simu intervals, CAV: 0.5 seconds\nNUMBER_OF_SIMULATION_INTERVAL_IN_MIN = 240\n# 60/0.25 number_of_seconds_per_interval\nclass e_traffic_flow_model(Enum):\n    POINT_QUEUE = 0\n    SPATIAL_QUEUE = 1\n    KINEMATIVE_WAVE = 2\nclass e_VDF_type(Enum):\n    Q_VDF = 0",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "NUMBER_OF_SIMULATION_INTERVAL_IN_MIN",
+        "kind": 5,
+        "importPath": "python_v0.DTA",
+        "description": "python_v0.DTA",
+        "peekOfCode": "NUMBER_OF_SIMULATION_INTERVAL_IN_MIN = 240\n# 60/0.25 number_of_seconds_per_interval\nclass e_traffic_flow_model(Enum):\n    POINT_QUEUE = 0\n    SPATIAL_QUEUE = 1\n    KINEMATIVE_WAVE = 2\nclass e_VDF_type(Enum):\n    Q_VDF = 0\n    BPR_VDF = 1\nclass e_assignment_mode(Enum):",
+        "detail": "python_v0.DTA",
+        "documentation": {}
+    },
+    {
+        "label": "func_running_time",
+        "kind": 2,
+        "importPath": "python_v0.func_lib",
+        "description": "python_v0.func_lib",
+        "peekOfCode": "def func_running_time(func):\n    def inner(*args, **kwargs):\n        print(f'INFO Begin to run function: {func.__name__} …')\n        time_start = datetime.datetime.now()\n        res = func(*args, **kwargs)\n        time_diff = datetime.datetime.now() - time_start\n        print(\n            f'INFO Finished running function: {func.__name__}, total: {time_diff.seconds}s')\n        print()\n        return res",
+        "detail": "python_v0.func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "path2linux",
+        "kind": 2,
+        "importPath": "python_v0.func_lib",
+        "description": "python_v0.func_lib",
+        "peekOfCode": "def path2linux(path: Union[str, Path]) -> str:\n    \"\"\"Convert a path to a linux path, linux path can run in windows, linux and mac\"\"\"\n    try:\n        return path.replace(\"\\\\\", \"/\")\n    except Exception:\n        return str(path).replace(\"\\\\\", \"/\")\ndef get_file_from_folder_by_type(dir_name: str, file_type: str = \"txt\", isTraverseSubdirectory: bool = False) -> list:\n    if isTraverseSubdirectory:\n        files_list = []\n        for root, dirs, files in os.walk(dir_name):",
+        "detail": "python_v0.func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "get_file_from_folder_by_type",
+        "kind": 2,
+        "importPath": "python_v0.func_lib",
+        "description": "python_v0.func_lib",
+        "peekOfCode": "def get_file_from_folder_by_type(dir_name: str, file_type: str = \"txt\", isTraverseSubdirectory: bool = False) -> list:\n    if isTraverseSubdirectory:\n        files_list = []\n        for root, dirs, files in os.walk(dir_name):\n            files_list.extend([os.path.join(root, file) for file in files])\n        return [path2linux(file) for file in files_list if file.split(\".\")[-1] == file_type]\n    # files in the first layer of the folder\n    return [path2linux(os.path.join(dir_name, file)) for file in os.listdir(dir_name) if file.split(\".\")[-1] == file_type]\ndef check_required_files_exist(required_files: list, dir_files: list) -> bool:\n    # format the required file name to standard linux path",
+        "detail": "python_v0.func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "check_required_files_exist",
+        "kind": 2,
+        "importPath": "python_v0.func_lib",
+        "description": "python_v0.func_lib",
+        "peekOfCode": "def check_required_files_exist(required_files: list, dir_files: list) -> bool:\n    # format the required file name to standard linux path\n    required_files = [path2linux(os.path.abspath(filename))\n                      for filename in required_files]\n    required_files_short = [filename.split(\n        \"/\")[-1] for filename in required_files]\n    dir_files_short = [filename.split(\"/\")[-1] for filename in dir_files]\n    # mask have the same length as required_files\n    mask = [file in dir_files_short for file in required_files_short]\n    if all(mask):",
+        "detail": "python_v0.func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "check_required_column_names_exist",
+        "kind": 2,
+        "importPath": "python_v0.func_lib",
+        "description": "python_v0.func_lib",
+        "peekOfCode": "def check_required_column_names_exist(required_columns: list, loaded_columns: list) -> bool:\n    if set(required_columns).issubset(set(loaded_columns)):\n        return True\n    print(f\"Error: Required columns are not satisfied, missing columns are: {set(required_columns) - set(loaded_columns)}\")\n    return False\ndef validate_filename(path_filename: str, ) -> str:\n    \"\"\"if the file name exist in path,then create new file name with _1, _1_1, ...\"\"\"\n    filename_abspath = path2linux(os.path.abspath(path_filename))\n    file_suffix = filename_abspath.split(\".\")[-1]\n    file_without_suffix = filename_abspath[:-len(file_suffix) - 1]",
+        "detail": "python_v0.func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "validate_filename",
+        "kind": 2,
+        "importPath": "python_v0.func_lib",
+        "description": "python_v0.func_lib",
+        "peekOfCode": "def validate_filename(path_filename: str, ) -> str:\n    \"\"\"if the file name exist in path,then create new file name with _1, _1_1, ...\"\"\"\n    filename_abspath = path2linux(os.path.abspath(path_filename))\n    file_suffix = filename_abspath.split(\".\")[-1]\n    file_without_suffix = filename_abspath[:-len(file_suffix) - 1]\n    if os.path.exists(filename_abspath):\n        filename_update = f\"{file_without_suffix}_1.{file_suffix}\"\n        return validate_filename(filename_update)\n    return filename_abspath\ndef generate_absolute_path(file_name: str = \"p4g_fig.png\", folder_name: str = \"cbi_results\"):",
+        "detail": "python_v0.func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "generate_absolute_path",
+        "kind": 2,
+        "importPath": "python_v0.func_lib",
+        "description": "python_v0.func_lib",
+        "peekOfCode": "def generate_absolute_path(file_name: str = \"p4g_fig.png\", folder_name: str = \"cbi_results\"):\n    # create folder if not exist\n    if not os.path.isdir(os.path.join(Path(__file__).parent, folder_name)):\n        os.mkdir(os.path.join(Path(__file__).parent, folder_name))\n    return path2linux(os.path.join(Path(__file__).parent, folder_name, file_name))",
+        "detail": "python_v0.func_lib",
+        "documentation": {}
+    },
+    {
+        "label": "GeometryType",
+        "kind": 6,
+        "importPath": "python_v0.geometry",
+        "description": "python_v0.geometry",
+        "peekOfCode": "class GeometryType(Enum):\n    POINT = 0\n    LINE = 1\n    POLYGON = 2\n    UNKNOWN = 3\nclass Geometry:\n    def __init__(self, s: str):\n        self._m_Type = 0\n        self._m_NumOfCoordinates = 0\n        self._v_Coordinates = []",
+        "detail": "python_v0.geometry",
+        "documentation": {}
+    },
+    {
+        "label": "Geometry",
+        "kind": 6,
+        "importPath": "python_v0.geometry",
+        "description": "python_v0.geometry",
+        "peekOfCode": "class Geometry:\n    def __init__(self, s: str):\n        self._m_Type = 0\n        self._m_NumOfCoordinates = 0\n        self._v_Coordinates = []\n        if \"POINT\" in s:\n            tmp = \"\"\n    def get_geometry_type(self):\n        return self._m_Type\n    def get_num_of_coordinates(self):",
+        "detail": "python_v0.geometry",
+        "documentation": {}
+    },
+    {
+        "label": "g_read_input_data",
+        "kind": 2,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "def g_read_input_data(assignment: Assignment):\n    # read input data\n    pass\nassignment = Assignment()\n# NOTE Read setting.csv\ndf_setting = pd.read_csv(\"./data_input/settings.csv\")\ndf_link_type = pd.read_csv(\"./data_input/link_type.csv\")\n# create a special link typ for virtual connector\nelement_vc = LinkType()\nelement_vc.link_type = -1",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "g_node_vector",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "g_node_vector = []\n# the link vector store class Link object\ng_link_vector = []\n# the dictionary store key: value pair; string: VDF_Type object\ng_vdf_type_map = {}\n# the dictionary store key: value pair; string: CorridorInfo object\ng_corridor_info_base0_map = {}\ng_corridor_info_SA_map = {}\n# the dictionary store key: value pair; string: TMC_Corridor_Info object\ng_tmc_corridor_vector = {}",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "g_link_vector",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "g_link_vector = []\n# the dictionary store key: value pair; string: VDF_Type object\ng_vdf_type_map = {}\n# the dictionary store key: value pair; string: CorridorInfo object\ng_corridor_info_base0_map = {}\ng_corridor_info_SA_map = {}\n# the dictionary store key: value pair; string: TMC_Corridor_Info object\ng_tmc_corridor_vector = {}\n# the TMC vector store class TMC_Link object\ng_TMC_vector = []",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "g_vdf_type_map",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "g_vdf_type_map = {}\n# the dictionary store key: value pair; string: CorridorInfo object\ng_corridor_info_base0_map = {}\ng_corridor_info_SA_map = {}\n# the dictionary store key: value pair; string: TMC_Corridor_Info object\ng_tmc_corridor_vector = {}\n# the TMC vector store class TMC_Link object\ng_TMC_vector = []\ng_related_zone_vector_size = 0\ndef g_read_input_data(assignment: Assignment):",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "g_corridor_info_base0_map",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "g_corridor_info_base0_map = {}\ng_corridor_info_SA_map = {}\n# the dictionary store key: value pair; string: TMC_Corridor_Info object\ng_tmc_corridor_vector = {}\n# the TMC vector store class TMC_Link object\ng_TMC_vector = []\ng_related_zone_vector_size = 0\ndef g_read_input_data(assignment: Assignment):\n    # read input data\n    pass",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "g_corridor_info_SA_map",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "g_corridor_info_SA_map = {}\n# the dictionary store key: value pair; string: TMC_Corridor_Info object\ng_tmc_corridor_vector = {}\n# the TMC vector store class TMC_Link object\ng_TMC_vector = []\ng_related_zone_vector_size = 0\ndef g_read_input_data(assignment: Assignment):\n    # read input data\n    pass\nassignment = Assignment()",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "g_tmc_corridor_vector",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "g_tmc_corridor_vector = {}\n# the TMC vector store class TMC_Link object\ng_TMC_vector = []\ng_related_zone_vector_size = 0\ndef g_read_input_data(assignment: Assignment):\n    # read input data\n    pass\nassignment = Assignment()\n# NOTE Read setting.csv\ndf_setting = pd.read_csv(\"./data_input/settings.csv\")",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "g_TMC_vector",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "g_TMC_vector = []\ng_related_zone_vector_size = 0\ndef g_read_input_data(assignment: Assignment):\n    # read input data\n    pass\nassignment = Assignment()\n# NOTE Read setting.csv\ndf_setting = pd.read_csv(\"./data_input/settings.csv\")\ndf_link_type = pd.read_csv(\"./data_input/link_type.csv\")\n# create a special link typ for virtual connector",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "g_related_zone_vector_size",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "g_related_zone_vector_size = 0\ndef g_read_input_data(assignment: Assignment):\n    # read input data\n    pass\nassignment = Assignment()\n# NOTE Read setting.csv\ndf_setting = pd.read_csv(\"./data_input/settings.csv\")\ndf_link_type = pd.read_csv(\"./data_input/link_type.csv\")\n# create a special link typ for virtual connector\nelement_vc = LinkType()",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "assignment",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "assignment = Assignment()\n# NOTE Read setting.csv\ndf_setting = pd.read_csv(\"./data_input/settings.csv\")\ndf_link_type = pd.read_csv(\"./data_input/link_type.csv\")\n# create a special link typ for virtual connector\nelement_vc = LinkType()\nelement_vc.link_type = -1\nelement_vc.type_code = \"c\"\nelement_vc.traffic_flow_code = e_traffic_flow_model.SPATIAL_QUEUE\nassignment.g_LinkTypeMap[element_vc.link_type] = element_vc",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "df_setting",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "df_setting = pd.read_csv(\"./data_input/settings.csv\")\ndf_link_type = pd.read_csv(\"./data_input/link_type.csv\")\n# create a special link typ for virtual connector\nelement_vc = LinkType()\nelement_vc.link_type = -1\nelement_vc.type_code = \"c\"\nelement_vc.traffic_flow_code = e_traffic_flow_model.SPATIAL_QUEUE\nassignment.g_LinkTypeMap[element_vc.link_type] = element_vc\nfor i in range(len(df_link_type)):\n    element = LinkType()",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "df_link_type",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "df_link_type = pd.read_csv(\"./data_input/link_type.csv\")\n# create a special link typ for virtual connector\nelement_vc = LinkType()\nelement_vc.link_type = -1\nelement_vc.type_code = \"c\"\nelement_vc.traffic_flow_code = e_traffic_flow_model.SPATIAL_QUEUE\nassignment.g_LinkTypeMap[element_vc.link_type] = element_vc\nfor i in range(len(df_link_type)):\n    element = LinkType()\n    element.link_type = df_link_type.loc[i, \"link_type\"]",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "element_vc",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "element_vc = LinkType()\nelement_vc.link_type = -1\nelement_vc.type_code = \"c\"\nelement_vc.traffic_flow_code = e_traffic_flow_model.SPATIAL_QUEUE\nassignment.g_LinkTypeMap[element_vc.link_type] = element_vc\nfor i in range(len(df_link_type)):\n    element = LinkType()\n    element.link_type = df_link_type.loc[i, \"link_type\"]\n    element.type_code = df_link_type.loc[i, \"type_code\"]\n    element.vdf_type = e_traffic_flow_model",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "element_vc.link_type",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "element_vc.link_type = -1\nelement_vc.type_code = \"c\"\nelement_vc.traffic_flow_code = e_traffic_flow_model.SPATIAL_QUEUE\nassignment.g_LinkTypeMap[element_vc.link_type] = element_vc\nfor i in range(len(df_link_type)):\n    element = LinkType()\n    element.link_type = df_link_type.loc[i, \"link_type\"]\n    element.type_code = df_link_type.loc[i, \"type_code\"]\n    element.vdf_type = e_traffic_flow_model\n    # a new column called: vdf_type",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "element_vc.type_code",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "element_vc.type_code = \"c\"\nelement_vc.traffic_flow_code = e_traffic_flow_model.SPATIAL_QUEUE\nassignment.g_LinkTypeMap[element_vc.link_type] = element_vc\nfor i in range(len(df_link_type)):\n    element = LinkType()\n    element.link_type = df_link_type.loc[i, \"link_type\"]\n    element.type_code = df_link_type.loc[i, \"type_code\"]\n    element.vdf_type = e_traffic_flow_model\n    # a new column called: vdf_type\n    if \"vdf_type\" in df_link_type.columns:",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "element_vc.traffic_flow_code",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "element_vc.traffic_flow_code = e_traffic_flow_model.SPATIAL_QUEUE\nassignment.g_LinkTypeMap[element_vc.link_type] = element_vc\nfor i in range(len(df_link_type)):\n    element = LinkType()\n    element.link_type = df_link_type.loc[i, \"link_type\"]\n    element.type_code = df_link_type.loc[i, \"type_code\"]\n    element.vdf_type = e_traffic_flow_model\n    # a new column called: vdf_type\n    if \"vdf_type\" in df_link_type.columns:\n        vdf_type_str = df_link_type.loc[i, \"vdf_type\"]",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "assignment.g_LinkTypeMap[element_vc.link_type]",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "assignment.g_LinkTypeMap[element_vc.link_type] = element_vc\nfor i in range(len(df_link_type)):\n    element = LinkType()\n    element.link_type = df_link_type.loc[i, \"link_type\"]\n    element.type_code = df_link_type.loc[i, \"type_code\"]\n    element.vdf_type = e_traffic_flow_model\n    # a new column called: vdf_type\n    if \"vdf_type\" in df_link_type.columns:\n        vdf_type_str = df_link_type.loc[i, \"vdf_type\"]\n    else:",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "assignment.g_LoadingStartTimeInMin",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "assignment.g_LoadingStartTimeInMin = 99999\nassignment.g_LoadingEndTimeInMin = 0\n# Step 1: Read demand period file\n# AM, MD, Afternoon\ndemand_period = DemandPeriod()\nam_md_afternoon = [(7 * 60, 9 * 60), (10 * 60, 14 * 60), (15 * 60, 19 * 60)]\nam_md_afternoon_demand_period = [\"AM\", \"MD\", \"PM\"]\nam_md_afternoon_demand_period_id = [1, 2, 2]\nfor i in range(len(am_md_afternoon)):\n    # create demand period with id and name",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "assignment.g_LoadingEndTimeInMin",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "assignment.g_LoadingEndTimeInMin = 0\n# Step 1: Read demand period file\n# AM, MD, Afternoon\ndemand_period = DemandPeriod()\nam_md_afternoon = [(7 * 60, 9 * 60), (10 * 60, 14 * 60), (15 * 60, 19 * 60)]\nam_md_afternoon_demand_period = [\"AM\", \"MD\", \"PM\"]\nam_md_afternoon_demand_period_id = [1, 2, 2]\nfor i in range(len(am_md_afternoon)):\n    # create demand period with id and name\n    global_minute_vector = am_md_afternoon[i]",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "demand_period",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "demand_period = DemandPeriod()\nam_md_afternoon = [(7 * 60, 9 * 60), (10 * 60, 14 * 60), (15 * 60, 19 * 60)]\nam_md_afternoon_demand_period = [\"AM\", \"MD\", \"PM\"]\nam_md_afternoon_demand_period_id = [1, 2, 2]\nfor i in range(len(am_md_afternoon)):\n    # create demand period with id and name\n    global_minute_vector = am_md_afternoon[i]\n    demand_period.demand_period_id = am_md_afternoon_demand_period_id[i]\n    demand_period.demand_period = am_md_afternoon_demand_period[i]\n    # update values accordingly",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "am_md_afternoon",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "am_md_afternoon = [(7 * 60, 9 * 60), (10 * 60, 14 * 60), (15 * 60, 19 * 60)]\nam_md_afternoon_demand_period = [\"AM\", \"MD\", \"PM\"]\nam_md_afternoon_demand_period_id = [1, 2, 2]\nfor i in range(len(am_md_afternoon)):\n    # create demand period with id and name\n    global_minute_vector = am_md_afternoon[i]\n    demand_period.demand_period_id = am_md_afternoon_demand_period_id[i]\n    demand_period.demand_period = am_md_afternoon_demand_period[i]\n    # update values accordingly\n    demand_period.starting_time_slot_no = global_minute_vector[0] / MIN_PER_TIME_SLOT",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "am_md_afternoon_demand_period",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "am_md_afternoon_demand_period = [\"AM\", \"MD\", \"PM\"]\nam_md_afternoon_demand_period_id = [1, 2, 2]\nfor i in range(len(am_md_afternoon)):\n    # create demand period with id and name\n    global_minute_vector = am_md_afternoon[i]\n    demand_period.demand_period_id = am_md_afternoon_demand_period_id[i]\n    demand_period.demand_period = am_md_afternoon_demand_period[i]\n    # update values accordingly\n    demand_period.starting_time_slot_no = global_minute_vector[0] / MIN_PER_TIME_SLOT\n    demand_period.ending_time_slot_no = global_minute_vector[1] / MIN_PER_TIME_SLOT",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "am_md_afternoon_demand_period_id",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "am_md_afternoon_demand_period_id = [1, 2, 2]\nfor i in range(len(am_md_afternoon)):\n    # create demand period with id and name\n    global_minute_vector = am_md_afternoon[i]\n    demand_period.demand_period_id = am_md_afternoon_demand_period_id[i]\n    demand_period.demand_period = am_md_afternoon_demand_period[i]\n    # update values accordingly\n    demand_period.starting_time_slot_no = global_minute_vector[0] / MIN_PER_TIME_SLOT\n    demand_period.ending_time_slot_no = global_minute_vector[1] / MIN_PER_TIME_SLOT\n    demand_period.time_period_in_hour = (global_minute_vector[1] - global_minute_vector[0]) / 60",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "assignment.g_number_of_nodes",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "assignment.g_number_of_nodes = 0\nassignment.g_number_of_links = 0\ninternal_node_seq_no = 0\n# NOTE Step 3: Read node file\n# dictionary store key: value pair; string: int\nlong_lat_string_to_node_id_mapping = {}\n# NOTE Step 4: Read TMC_identification.csv file\n# dictionary store key: value pair; int: int\nzone_id_to_analysis_district_id_mapping = {}\nlink_type_warning_count = 0",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "assignment.g_number_of_links",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "assignment.g_number_of_links = 0\ninternal_node_seq_no = 0\n# NOTE Step 3: Read node file\n# dictionary store key: value pair; string: int\nlong_lat_string_to_node_id_mapping = {}\n# NOTE Step 4: Read TMC_identification.csv file\n# dictionary store key: value pair; int: int\nzone_id_to_analysis_district_id_mapping = {}\nlink_type_warning_count = 0\nlength_in_km_warning = False",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "internal_node_seq_no",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "internal_node_seq_no = 0\n# NOTE Step 3: Read node file\n# dictionary store key: value pair; string: int\nlong_lat_string_to_node_id_mapping = {}\n# NOTE Step 4: Read TMC_identification.csv file\n# dictionary store key: value pair; int: int\nzone_id_to_analysis_district_id_mapping = {}\nlink_type_warning_count = 0\nlength_in_km_warning = False\ntmc_identification_file_name = \"./data_input/TMC_identification.csv\"",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "long_lat_string_to_node_id_mapping",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "long_lat_string_to_node_id_mapping = {}\n# NOTE Step 4: Read TMC_identification.csv file\n# dictionary store key: value pair; int: int\nzone_id_to_analysis_district_id_mapping = {}\nlink_type_warning_count = 0\nlength_in_km_warning = False\ntmc_identification_file_name = \"./data_input/TMC_identification.csv\"\ndf_tmc_identification = pd.read_csv(tmc_identification_file_name)\n# create a Node object\nnode = Node()",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "zone_id_to_analysis_district_id_mapping",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "zone_id_to_analysis_district_id_mapping = {}\nlink_type_warning_count = 0\nlength_in_km_warning = False\ntmc_identification_file_name = \"./data_input/TMC_identification.csv\"\ndf_tmc_identification = pd.read_csv(tmc_identification_file_name)\n# create a Node object\nnode = Node()\nlink = Link()\ntmc_identification_col = list(df_tmc_identification.columns)\nfor i in range(len(df_tmc_identification)):",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "link_type_warning_count",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "link_type_warning_count = 0\nlength_in_km_warning = False\ntmc_identification_file_name = \"./data_input/TMC_identification.csv\"\ndf_tmc_identification = pd.read_csv(tmc_identification_file_name)\n# create a Node object\nnode = Node()\nlink = Link()\ntmc_identification_col = list(df_tmc_identification.columns)\nfor i in range(len(df_tmc_identification)):\n    x_coord_from = df_tmc_identification.loc[i, \"start_longitude\"]",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "length_in_km_warning",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "length_in_km_warning = False\ntmc_identification_file_name = \"./data_input/TMC_identification.csv\"\ndf_tmc_identification = pd.read_csv(tmc_identification_file_name)\n# create a Node object\nnode = Node()\nlink = Link()\ntmc_identification_col = list(df_tmc_identification.columns)\nfor i in range(len(df_tmc_identification)):\n    x_coord_from = df_tmc_identification.loc[i, \"start_longitude\"]\n    y_coord_from = df_tmc_identification.loc[i, \"start_latitude\"]",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "tmc_identification_file_name",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "tmc_identification_file_name = \"./data_input/TMC_identification.csv\"\ndf_tmc_identification = pd.read_csv(tmc_identification_file_name)\n# create a Node object\nnode = Node()\nlink = Link()\ntmc_identification_col = list(df_tmc_identification.columns)\nfor i in range(len(df_tmc_identification)):\n    x_coord_from = df_tmc_identification.loc[i, \"start_longitude\"]\n    y_coord_from = df_tmc_identification.loc[i, \"start_latitude\"]\n    start_longitude = df_tmc_identification.loc[i, \"start_longitude\"]",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "df_tmc_identification",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "df_tmc_identification = pd.read_csv(tmc_identification_file_name)\n# create a Node object\nnode = Node()\nlink = Link()\ntmc_identification_col = list(df_tmc_identification.columns)\nfor i in range(len(df_tmc_identification)):\n    x_coord_from = df_tmc_identification.loc[i, \"start_longitude\"]\n    y_coord_from = df_tmc_identification.loc[i, \"start_latitude\"]\n    start_longitude = df_tmc_identification.loc[i, \"start_longitude\"]\n    start_latitude = df_tmc_identification.loc[i, \"start_latitude\"]",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "node",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "node = Node()\nlink = Link()\ntmc_identification_col = list(df_tmc_identification.columns)\nfor i in range(len(df_tmc_identification)):\n    x_coord_from = df_tmc_identification.loc[i, \"start_longitude\"]\n    y_coord_from = df_tmc_identification.loc[i, \"start_latitude\"]\n    start_longitude = df_tmc_identification.loc[i, \"start_longitude\"]\n    start_latitude = df_tmc_identification.loc[i, \"start_latitude\"]\n    x_coord_to = df_tmc_identification.loc[i, \"end_longitude\"]\n    y_coord_t0 = df_tmc_identification.loc[i, \"end_latitude\"]",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "link",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "link = Link()\ntmc_identification_col = list(df_tmc_identification.columns)\nfor i in range(len(df_tmc_identification)):\n    x_coord_from = df_tmc_identification.loc[i, \"start_longitude\"]\n    y_coord_from = df_tmc_identification.loc[i, \"start_latitude\"]\n    start_longitude = df_tmc_identification.loc[i, \"start_longitude\"]\n    start_latitude = df_tmc_identification.loc[i, \"start_latitude\"]\n    x_coord_to = df_tmc_identification.loc[i, \"end_longitude\"]\n    y_coord_t0 = df_tmc_identification.loc[i, \"end_latitude\"]\n    end_longitude = df_tmc_identification.loc[i, \"end_longitude\"]",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "tmc_identification_col",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "tmc_identification_col = list(df_tmc_identification.columns)\nfor i in range(len(df_tmc_identification)):\n    x_coord_from = df_tmc_identification.loc[i, \"start_longitude\"]\n    y_coord_from = df_tmc_identification.loc[i, \"start_latitude\"]\n    start_longitude = df_tmc_identification.loc[i, \"start_longitude\"]\n    start_latitude = df_tmc_identification.loc[i, \"start_latitude\"]\n    x_coord_to = df_tmc_identification.loc[i, \"end_longitude\"]\n    y_coord_t0 = df_tmc_identification.loc[i, \"end_latitude\"]\n    end_longitude = df_tmc_identification.loc[i, \"end_longitude\"]\n    end_latitude = df_tmc_identification.loc[i, \"end_latitude\"]",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "node_result_list",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "node_result_list = []\nfor corridor_name in g_tmc_corridor_vector:\n    tmc_corridor_info = g_tmc_corridor_vector[corridor_name]\n    tmc_corridor_info.find_center_and_origin()\n    if len(tmc_corridor_info.point_vector) <= 5:\n        continue\n    for k in range(len(tmc_corridor_info.point_vector)):\n         i = tmc_corridor_info.point_vector[k].node_no\n         if g_node_vector[i].node_id > 0:\n             node_result_list.append([",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "link_result_list",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "link_result_list = []\nfor i in range(len(g_link_vector)):\n    if g_link_vector[i].link_type <= -100:\n        continue\n    if len(g_link_vector[i].geometry) > 0:\n        geometry_str = g_link_vector[i].geometry\n    else:\n        geometry_str = f\"LINESTRING({g_node_vector[g_link_vector[i].from_node_seq_no].x} {g_node_vector[g_link_vector[i].from_node_seq_no].y}, {g_node_vector[g_link_vector[i].to_node_seq_no].x} {g_node_vector[g_link_vector[i].to_node_seq_no].y})\"\n    link_result_list.append([\n        g_link_vector[i].link_id,",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "path_reading",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "path_reading = \"./data_input/Reading.csv\"\ndf_reading = pd.read_csv(path_reading)\n# convert measurement_tstamp to datetime\ndf_reading[\"measurement_tstamp\"] = pd.to_datetime(df_reading[\"measurement_tstamp\"])\nfor i in range(len(df_reading)):\n    tmc = df_reading.loc[i, \"tmc_code\"]\n    # convert time stamp to string\n    measurement_tstamp = str(df_reading.loc[i, \"measurement_tstamp\"])\n    length_of_measurement_tstamp = len(measurement_tstamp)\n    if length_of_measurement_tstamp == 0:",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "df_reading",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "df_reading = pd.read_csv(path_reading)\n# convert measurement_tstamp to datetime\ndf_reading[\"measurement_tstamp\"] = pd.to_datetime(df_reading[\"measurement_tstamp\"])\nfor i in range(len(df_reading)):\n    tmc = df_reading.loc[i, \"tmc_code\"]\n    # convert time stamp to string\n    measurement_tstamp = str(df_reading.loc[i, \"measurement_tstamp\"])\n    length_of_measurement_tstamp = len(measurement_tstamp)\n    if length_of_measurement_tstamp == 0:\n        continue",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "df_reading[\"measurement_tstamp\"]",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "df_reading[\"measurement_tstamp\"] = pd.to_datetime(df_reading[\"measurement_tstamp\"])\nfor i in range(len(df_reading)):\n    tmc = df_reading.loc[i, \"tmc_code\"]\n    # convert time stamp to string\n    measurement_tstamp = str(df_reading.loc[i, \"measurement_tstamp\"])\n    length_of_measurement_tstamp = len(measurement_tstamp)\n    if length_of_measurement_tstamp == 0:\n        continue\n    if length_of_measurement_tstamp < 18:\n        print(f\"reading data for measurement_tstamp = {measurement_tstamp}, len of the timestamp is {length_of_measurement_tstamp}. \\nPlease use stand ISO 8601 data and time to format. eg: 2022-05-23T22:00:23\")",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "link_cbi_summary_result_list",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "link_cbi_summary_result_list = []\nTMC_long_id_mapping = {}\nfor tau in range(min(3, len(assignment.g_DemandPeriodVector))):\n    for i in range(len(g_link_vector)):\n        if len(g_link_vector[i].tmc_code) > 0:\n            TMC_long_key = (g_link_vector[i].tmc_corridor_id * 10000 + g_link_vector[i].tmc_road_sequence) * 10 + g_link_vector[i].link_seq_no\n            TMC_long_id_mapping[TMC_long_key] = g_link_vector[i].link_seq_no\n    for tmc_long_key in TMC_long_id_mapping:\n        i = TMC_long_id_mapping[tmc_long_key]\n        highest_speed = g_link_vector[i].free_speed",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "TMC_long_id_mapping",
+        "kind": 5,
+        "importPath": "python_v0.input",
+        "description": "python_v0.input",
+        "peekOfCode": "TMC_long_id_mapping = {}\nfor tau in range(min(3, len(assignment.g_DemandPeriodVector))):\n    for i in range(len(g_link_vector)):\n        if len(g_link_vector[i].tmc_code) > 0:\n            TMC_long_key = (g_link_vector[i].tmc_corridor_id * 10000 + g_link_vector[i].tmc_road_sequence) * 10 + g_link_vector[i].link_seq_no\n            TMC_long_id_mapping[TMC_long_key] = g_link_vector[i].link_seq_no\n    for tmc_long_key in TMC_long_id_mapping:\n        i = TMC_long_id_mapping[tmc_long_key]\n        highest_speed = g_link_vector[i].free_speed\n        if g_link_vector[i].tmc_code in assignment.m_TMClink_map:",
+        "detail": "python_v0.input",
+        "documentation": {}
+    },
+    {
+        "label": "g_get_cell_id",
+        "kind": 2,
+        "importPath": "python_v0.main_api",
+        "description": "python_v0.main_api",
+        "peekOfCode": "def g_get_cell_id(x: float, y: float, grid_resolution: float) -> float:\n    xi = floor(x / grid_resolution)\n    yi = floor(y / grid_resolution)\n    x_code = fabs(xi) * grid_resolution * 1000000000000\n    y_code = fabs(yi) * grid_resolution * 100000\n    return x_code + y_code\ndef g_get_cell_code(x: float, y: float, grid_resolution: float, left: float, top: float) -> str:\n    s_val = \"ABCDEFGHIJKLMNOPQRSTUVWXYZ\"\n    xi = floor((x - left) / grid_resolution) - floor(left / grid_resolution)\n    yi = ceil(top / grid_resolution) - floor(y / grid_resolution)",
+        "detail": "python_v0.main_api",
+        "documentation": {}
+    },
+    {
+        "label": "g_get_cell_code",
+        "kind": 2,
+        "importPath": "python_v0.main_api",
+        "description": "python_v0.main_api",
+        "peekOfCode": "def g_get_cell_code(x: float, y: float, grid_resolution: float, left: float, top: float) -> str:\n    s_val = \"ABCDEFGHIJKLMNOPQRSTUVWXYZ\"\n    xi = floor((x - left) / grid_resolution) - floor(left / grid_resolution)\n    yi = ceil(top / grid_resolution) - floor(y / grid_resolution)\n    digit = int(xi / 26)\n    str_letter = s_val[digit] if digit >= 1 else \"\"\n    reminder = xi - digit * 26\n    str_letter += s_val[reminder]\n    return str_letter + str(yi)\ndef network_assignment(assignment_mmode: int, column_generation_iterations: int, column_updating_iterations: int, ODME_iterations: int, sensitivity_analysis_iterations: int, simulation_iterations: int, number_of_memory_blocks: int) -> float:",
+        "detail": "python_v0.main_api",
+        "documentation": {}
+    },
+    {
+        "label": "network_assignment",
+        "kind": 2,
+        "importPath": "python_v0.main_api",
+        "description": "python_v0.main_api",
+        "peekOfCode": "def network_assignment(assignment_mmode: int, column_generation_iterations: int, column_updating_iterations: int, ODME_iterations: int, sensitivity_analysis_iterations: int, simulation_iterations: int, number_of_memory_blocks: int) -> float:\n    signal_updating_iterations = 0\n    start_t0 = datetime.now()\n    # k iterations for column generation\n    # 0: link UE: 1: path UE, 2: Path SO, 3: path resource constraints\n    return 0.0\nif __name__ == \"__main__\":\n    # initialize input variables\n    # required classes: Node, Link, VDF_Type, CorridorInfo, TMC_Corridor_Info, Assignment\n    # TMC_Link",
+        "detail": "python_v0.main_api",
+        "documentation": {}
+    },
+    {
+        "label": "generate_dynamic_queue_profile_file",
+        "kind": 2,
+        "importPath": "python_v0.output",
+        "description": "python_v0.output",
+        "peekOfCode": "def generate_dynamic_queue_profile_file():\n    \"\"\"Generate link queue profile.\"\"\"\n    print(\"writing link queue profile.csv ...\")\n    b_debug_detail_flag = 0\n    col_name_1 = [\"link_id\", \"tmc_corridor_name\", \"tmc_road_sequence\",\n                  \"tmc\", \"link_type_name\", \"from_node_id\", \"to_node_id\", \"geometry\"]\n    col_name_2 = [\"link_type_code\", \"FT\", \"AT\", \"nlanes\", \"link_distance_VDF\",\n                  \"free_speed\", \"capacity\", \"k_critical\", \"v_congestion_cutoff\"]\ndef generate_tmc_node_link_file():\n    col_node = [\"node_id\", \"node_no\", \"layer_no\", \"agent_id\", \"sequence_no\", \"distance_from_origin\", \"MRM_gate_flag\", \"node_type\",",
+        "detail": "python_v0.output",
+        "documentation": {}
+    },
+    {
+        "label": "generate_tmc_node_link_file",
+        "kind": 2,
+        "importPath": "python_v0.output",
+        "description": "python_v0.output",
+        "peekOfCode": "def generate_tmc_node_link_file():\n    col_node = [\"node_id\", \"node_no\", \"layer_no\", \"agent_id\", \"sequence_no\", \"distance_from_origin\", \"MRM_gate_flag\", \"node_type\",\n                \"is_boundary\", \"#_of_outgoing_nodes\", \"activity_node_flag\", \"agent_type\", \"zone_id\", \"cell_code\", \"info_zone_flag\", \"x_coord\", \"y_coord\"]\n    col_link = [\"link_id\", \"link_no\", \"layer_no\", \"from_node_id\", \"to_node_id\", \"from_gate_flag\", \"to_gate_flag\", \"link_type\",\n                \"link_type_name\", \"lanes\", \"link_distance_VDF\", \"free_speed\", \"cutoff_speed\", \"fftt\", \"capacity\", \"allow_uses\", \"BPR_plf\", \"BPR_alpha\", \"BPR_beta\", \"QVDF_qdf\", \"QVDF_alpha\", \"QVDF_beta\", \"QVDF_cd\", \"QVDF_n\", \"geometry\"]\n    for corridor_name in g_tmc_corridor_vector:",
+        "detail": "python_v0.output",
+        "documentation": {}
+    },
+    {
+        "label": "required_input_file_dict",
+        "kind": 5,
+        "importPath": "python_v0.utility_lib",
+        "description": "python_v0.utility_lib",
+        "peekOfCode": "required_input_file_dict = {\n    \"settings.yml\": {\"link_type\", \"link_type_name\", \"agent_type_blocklist\", \"type_code\", \"traffic_flow_code\"},\n    \"Reading.csv\": {\"tmc_code\", \"measurement_tstamp\", \"speed\", \"average_speed\", \"reference_speed\", \"travel_time_seconds\", \"confidence_score\", \"cvalue\"},\n    \"TMC_Identification.csv\": {\"tmc\", \"road\", \"direction\", \"intersection\",\n                               \"state\", \"county\", \"zip\", \"start_latitude\",\n                               \"start_longitude\", \"end_latitude\", \"end_longitude\",\n                               \"miles\", \"road_order\", \"timezone_name\", \"type\",\n                               \"country\", \"active_start_date\", \"active_end_date\"}}\noutput_file_dict = {\n    \"node.csv\": [],",
+        "detail": "python_v0.utility_lib",
+        "documentation": {}
+    },
+    {
+        "label": "output_file_dict",
+        "kind": 5,
+        "importPath": "python_v0.utility_lib",
+        "description": "python_v0.utility_lib",
+        "peekOfCode": "output_file_dict = {\n    \"node.csv\": [],\n    \"link.csv\": [],\n    \"link_cbi_summary.csv\": [],\n    \"link_qvdf.csv\": [],\n    \"link_queue_profile.csv\": [],\n    \"final_summary.csv\": [],\n    \"corridor_performance.csv\": [],\n}",
+        "detail": "python_v0.utility_lib",
+        "documentation": {}
+    },
+    {
+        "label": "PeriodVDF",
+        "kind": 6,
+        "importPath": "python_v0.VDF",
+        "description": "python_v0.VDF",
+        "peekOfCode": "class PeriodVDF:\n    def __init__(self, **kwargs):\n        self.vdf_type = 0\n        self.vf = 60\n        self.v_congestion_cutoff = 45\n        self.k_critical = 45\n        self.Q_cd = 0.954946463\n        self.Q_n = 1.141574427\n        self.Q_cp = 0.400089684\n        self.Q_s = 4",
+        "detail": "python_v0.VDF",
+        "documentation": {}
+    }
+]

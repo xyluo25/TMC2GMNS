@@ -253,7 +253,7 @@ class CBI_TOOL:
             if "tmc_corridor_name" in tmc_identification_col:
                 tmc_corridor_name = df_tmc_identification.loc[i, "tmc_corridor_name"]
             elif {"road", "direction"}.issubset(set(tmc_identification_col)):
-                tmc_corridor_name = df_tmc_identification.loc[i, "road"] + "_" + df_tmc_identification.loc[i, "direction"]
+                tmc_corridor_name = str(df_tmc_identification.loc[i, "road"]) + "_" + df_tmc_identification.loc[i, "direction"]
             else:
                 tmc_corridor_name = ""
 

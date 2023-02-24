@@ -6,9 +6,10 @@
 ##############################################################
 
 # values in dictionary are features required by the function
+# "confidence_score", "cvalue"
 required_input_file_dict = {
     "settings.yml": {"link_type", "link_type_name", "agent_type_blocklist", "type_code", "traffic_flow_code"},
-    "Reading.csv": {"tmc_code", "measurement_tstamp", "speed", "average_speed", "reference_speed", "travel_time_seconds", "confidence_score", "cvalue"},
+    "Reading.csv": {"tmc_code", "measurement_tstamp", "speed", "average_speed", "reference_speed", "travel_time_seconds"},
     "TMC_Identification.csv": {"tmc", "road", "direction", "intersection",
                                "state", "county", "zip", "start_latitude",
                                "start_longitude", "end_latitude", "end_longitude",
